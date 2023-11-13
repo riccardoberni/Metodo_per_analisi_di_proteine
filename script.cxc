@@ -1,0 +1,8 @@
+open 'pdb_files\3ry2\mut\3ry2_exp.pdb'
+select /B
+delete atoms sel
+delete bonds sel
+open 'pdb_files\3ry2\3ry2_af.pdb'
+matchmaker #2 to #1
+save 'pdb_files\3ry2\3ry2_alignment.pdb' models #2 relModel #1
+exit

@@ -1,0 +1,1949 @@
+Protein name:   3f8y
+
+Global RMSD:    1.3478
+Global RMSD sidechains:    1.6279
+Global RMSD backbone:    0.9034
+
+Local RMSD:    1.0814
+Local RMSD sidechains: 1.2768
+Local RMSD backbone: 0.4048
+
+Global STD:    1.097269350467865
+Global STD sidechains:    1.291129058258819
+Global STD backbone:    0.7880518088628607
+
+Local STD:    0.8863814940036736
+Local STD sidechains: 1.070545599817531
+Local STD backbone: 0.5954637977198759
+
+
+Treshold:  SIDECHAIN_RMSD > 0.75
+Flipped ratio:    0.2549019607843137
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+92                            ARG              ARG      0.8720          0.9754   0.374050       0.409747                7            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_RMSD > 1
+Flipped ratio:    0.23529411764705882
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_RMSD > 1.25
+Flipped ratio:    0.23529411764705882
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_RMSD > 1.5
+Flipped ratio:    0.19607843137254902
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_RMSD > 1.75
+Flipped ratio:    0.1568627450980392
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_STD > 0.25
+Flipped ratio:    0.29411764705882354
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+23                            LEU              LEU      0.5198          0.6084   0.212986       0.285795                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+55                            LYS              LYS      0.5442          0.6690   0.244778       0.256485                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+92                            ARG              ARG      0.8720          0.9754   0.374050       0.409747                7            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_STD > 0.5
+Flipped ratio:    0.21568627450980393
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_STD > 0.75
+Flipped ratio:    0.21568627450980393
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_STD > 0.25 and SIDECHAIN_RMSD > 1.5
+Flipped ratio:    0.19607843137254902
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Treshold:  SIDECHAIN_STD > 0.5 and SIDECHAIN_RMSD > 1.5
+Flipped ratio:    0.17647058823529413
+Flipped sidechains:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+
+
+Local residues:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+8                             ILE              ILE      0.2584          0.2398   0.030273       0.012923                4            True
+9                             VAL              VAL      0.3105          0.3739   0.090788       0.094675                3            True
+10                            ALA              ALA      0.2305          0.1900   0.087550            NaN                1            True
+11                            VAL              VAL      0.1235          0.1555   0.045080       0.039770                3            True
+17                            ILE              ILE      0.1904          0.1390   0.088197       0.038230                4            True
+18                            GLY              GLY      0.4026          0.0000   0.096118            NaN                0            True
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+21                            GLY              GLY      0.7946          0.0000   0.157994            NaN                0            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+23                            LEU              LEU      0.5198          0.6084   0.212986       0.285795                4            True
+24                            PRO              PRO      0.3406          0.3336   0.062350       0.100391                3            True
+25                            TRP              TRP      0.4837          0.4728   0.046092       0.026118               10            True
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+32                            PHE              PHE      0.4216          0.3881   0.091502       0.097770                7            True
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+35                            PHE              PHE      0.3221          0.2994   0.045088       0.040960                7            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+39                            THR              THR      0.3153          0.3142   0.040271       0.017417                3            True
+40                            THR              THR      0.2975          0.2663   0.057327       0.048161                3            True
+53                            MET              MET      0.2908          0.3141   0.059266       0.076639                4            True
+54                            GLY              GLY      0.4086          0.0000   0.107460            NaN                0            True
+55                            LYS              LYS      0.5442          0.6690   0.244778       0.256485                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+57                            THR              THR      0.4406          0.4436   0.063377       0.069433                3            True
+58                            TRP              TRP      0.1843          0.1551   0.060806       0.043860               10            True
+60                            SER              SER      0.4624          0.4801   0.048316       0.096806                2            True
+61                            ILE              ILE      0.4070          0.4051   0.102843       0.150021                4            True
+62                            PRO              PRO      0.3964          0.3612   0.048673       0.025572                3            True
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+68                            LEU              LEU      0.2191          0.1101   0.152888       0.007113                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+71                            ARG              ARG      0.2571          0.3101   0.125218       0.111890                7            True
+76                            LEU              LEU      0.3344          0.2184   0.129348       0.076986                4            True
+77                            SER              SER      0.5514          0.5630   0.080357       0.155271                2            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+80                            LEU              LEU      0.2890          0.3247   0.053687       0.048673                4            True
+91                            SER              SER      0.3197          0.2889   0.056177       0.089852                2            True
+92                            ARG              ARG      0.8720          0.9754   0.374050       0.409747                7            True
+93                            SER              SER      0.3788          0.3674   0.028488       0.025052                2            True
+94                            LEU              LEU      0.3188          0.3640   0.068735       0.045954                4            True
+116                           VAL              VAL      0.3777          0.4203   0.044717       0.026289                3            True
+117                           GLY              GLY      0.3971          0.0000   0.061659            NaN                0            True
+118                           GLY              GLY      0.4237          0.0000   0.175498            NaN                0            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+120                           SER              SER      0.4795          0.5944   0.107618       0.000341                2            True
+121                           VAL              VAL      0.3940          0.4182   0.049564       0.065013                3            True
+122                           TYR              TYR      0.1806          0.1989   0.050097       0.044638                8            True
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+137                           THR              THR      0.2530          0.3193   0.082986       0.056473                3            True
+147                           THR              THR      0.2168          0.1611   0.071436       0.055506                3            True
+
+All residues:
+                  RESIDUE_NAME_AF RESIDUE_NAME_EXP  TOTAL_RMSD  SIDECHAIN_RMSD  TOTAL_STD  SIDECHAIN_STD  SIDECHAIN_ATOMS  IS_NEAR_LIGAND
+residue_number_af                                                                                                                        
+2                             VAL              VAL      6.2284          5.9236   0.843789       0.966597                3           False
+3                             GLY              GLY      4.2400          0.0000   0.742901            NaN                0           False
+4                             SER              SER      2.8329          2.9162   0.559999       0.070688                2           False
+5                             LEU              LEU      1.6357          1.9782   0.743952       0.725729                4           False
+6                             ASN              ASN      0.4313          0.4853   0.105642       0.115196                4           False
+7                             CYS              CYS      0.3149          0.3155   0.060171       0.129330                2           False
+8                             ILE              ILE      0.2584          0.2398   0.030273       0.012923                4            True
+9                             VAL              VAL      0.3105          0.3739   0.090788       0.094675                3            True
+10                            ALA              ALA      0.2305          0.1900   0.087550            NaN                1            True
+11                            VAL              VAL      0.1235          0.1555   0.045080       0.039770                3            True
+12                            SER              SER      0.1367          0.2117   0.079639       0.088541                2           False
+13                            GLN              GLN      0.7858          1.0476   0.662498       0.807379                5           False
+14                            ASN              ASN      0.2545          0.3336   0.161997       0.211512                4           False
+15                            MET              MET      1.1420          1.5957   0.958940       1.257991                4           False
+16                            GLY              GLY      0.1776          0.0000   0.069202            NaN                0           False
+17                            ILE              ILE      0.1904          0.1390   0.088197       0.038230                4            True
+18                            GLY              GLY      0.4026          0.0000   0.096118            NaN                0            True
+19                            LYS              LYS      2.3571          3.1420   1.932801       2.304394                5            True
+20                            ASN              ASN      0.8017          0.7910   0.171864       0.065348                4           False
+21                            GLY              GLY      0.7946          0.0000   0.157994            NaN                0            True
+22                            ASP              ASP      1.7082          2.3502   1.122327       1.128338                4            True
+23                            LEU              LEU      0.5198          0.6084   0.212986       0.285795                4            True
+24                            PRO              PRO      0.3406          0.3336   0.062350       0.100391                3            True
+25                            TRP              TRP      0.4837          0.4728   0.046092       0.026118               10            True
+26                            PRO              PRO      0.7609          0.9260   0.263724       0.366850                3           False
+27                            PRO              PRO      1.0935          1.2041   0.153051       0.074131                3           False
+28                            LEU              LEU      0.6317          0.5170   0.173046       0.173991                4           False
+29                            ARG              ARG      1.7489          2.1509   1.202091       1.338729                7           False
+30                            ASN              ASN      0.3947          0.4220   0.118058       0.167127                4           False
+31                            GLU              GLU      1.2046          1.5791   0.846217       0.973282                5            True
+32                            PHE              PHE      0.4216          0.3881   0.091502       0.097770                7            True
+33                            ARG              ARG      0.7274          0.8448   0.295713       0.310487                7           False
+34                            TYR              TYR      1.4680          1.7804   1.016707       1.068438                8            True
+35                            PHE              PHE      0.3221          0.2994   0.045088       0.040960                7            True
+36                            LYS              GLN      3.8806          2.1204   2.707553       2.482401                5            True
+37                            ARG              ARG      0.4414          0.4544   0.057944       0.071682                7           False
+38                            MET              MET      0.4668          0.5001   0.082540       0.109984                4           False
+39                            THR              THR      0.3153          0.3142   0.040271       0.017417                3            True
+40                            THR              THR      0.2975          0.2663   0.057327       0.048161                3            True
+41                            THR              THR      0.4022          0.4954   0.102397       0.053349                3           False
+42                            SER              SER      0.4436          0.5211   0.081476       0.023822                2           False
+43                            SER              SER      1.2195          1.5919   0.354899       0.223224                2           False
+44                            VAL              VAL      0.7314          0.8578   0.154359       0.058156                3           False
+45                            GLU              GLU      2.0009          2.5382   1.083532       1.156175                5           False
+46                            GLY              GLY      1.1477          0.0000   0.235999            NaN                0           False
+47                            LYS              LYS      0.5214          0.6487   0.277267       0.313108                5           False
+48                            GLN              GLN      0.9075          1.2139   0.750133       0.852382                5           False
+49                            ASN              ASN      0.1825          0.1854   0.078094       0.084280                4           False
+50                            LEU              LEU      0.2155          0.2239   0.064463       0.095082                4           False
+51                            VAL              VAL      0.2496          0.2757   0.046273       0.038350                3           False
+52                            ILE              ILE      0.1490          0.1226   0.047357       0.052492                4           False
+53                            MET              MET      0.2908          0.3141   0.059266       0.076639                4            True
+54                            GLY              GLY      0.4086          0.0000   0.107460            NaN                0            True
+55                            LYS              LYS      0.5442          0.6690   0.244778       0.256485                5            True
+56                            LYS              LYS      1.9953          2.6466   1.422334       1.457779                5            True
+57                            THR              THR      0.4406          0.4436   0.063377       0.069433                3            True
+58                            TRP              TRP      0.1843          0.1551   0.060806       0.043860               10            True
+59                            PHE              PHE      0.4936          0.5356   0.121839       0.135048                7           False
+60                            SER              SER      0.4624          0.4801   0.048316       0.096806                2            True
+61                            ILE              ILE      0.4070          0.4051   0.102843       0.150021                4            True
+62                            PRO              PRO      0.3964          0.3612   0.048673       0.025572                3            True
+63                            GLU              GLU      1.3699          1.8160   0.925516       0.822162                5           False
+64                            LYS              LYS      1.1573          1.5141   0.890622       1.127683                5           False
+65                            ASN              ASN      1.1271          1.5809   0.958247       1.224302                4            True
+66                            ARG              ARG      0.6432          0.7601   0.386339       0.455901                7           False
+67                            PRO              PRO      0.2405          0.2631   0.049102       0.048913                3           False
+68                            LEU              LEU      0.2191          0.1101   0.152888       0.007113                4            True
+69                            LYS              LYS      2.4869          3.3295   1.942924       1.927644                5            True
+70                            GLY              GLY      0.3760          0.0000   0.067531            NaN                0           False
+71                            ARG              ARG      0.2571          0.3101   0.125218       0.111890                7            True
+72                            ILE              ILE      0.2244          0.2258   0.047307       0.022601                4           False
+73                            ASN              ASN      0.2620          0.3220   0.098325       0.109282                4           False
+74                            LEU              LEU      0.1295          0.1070   0.026410       0.019519                4           False
+75                            VAL              VAL      0.2602          0.2649   0.047659       0.046200                3           False
+76                            LEU              LEU      0.3344          0.2184   0.129348       0.076986                4            True
+77                            SER              SER      0.5514          0.5630   0.080357       0.155271                2            True
+78                            ARG              ARG      1.6048          1.9025   0.603981       0.414741                7            True
+79                            GLU              GLU      1.1227          1.4746   0.839026       1.014231                5            True
+80                            LEU              LEU      0.2890          0.3247   0.053687       0.048673                4            True
+81                            LYS              LYS      0.7804          1.0233   0.578693       0.699352                5           False
+82                            GLU              GLU      1.1401          1.5083   0.858453       0.992414                5           False
+83                            PRO              PRO      0.2909          0.2810   0.031652       0.043443                3           False
+84                            PRO              PRO      0.5291          0.5305   0.171810       0.178171                3           False
+85                            GLN              GLN      0.3143          0.3507   0.116786       0.134782                5           False
+86                            GLY              GLY      0.1662          0.0000   0.008327            NaN                0           False
+87                            ALA              ALA      0.2374          0.2201   0.038414            NaN                1           False
+88                            HIS              HIS      0.3647          0.4463   0.212146       0.245396                6           False
+89                            PHE              PHE      0.2536          0.2861   0.074228       0.069907                7           False
+90                            LEU              LEU      0.3515          0.4252   0.105253       0.091524                4           False
+91                            SER              SER      0.3197          0.2889   0.056177       0.089852                2            True
+92                            ARG              ARG      0.8720          0.9754   0.374050       0.409747                7            True
+93                            SER              SER      0.3788          0.3674   0.028488       0.025052                2            True
+94                            LEU              LEU      0.3188          0.3640   0.068735       0.045954                4            True
+95                            ASP              ASP      0.4209          0.5163   0.202574       0.272759                4           False
+96                            ASP              ASP      0.4582          0.5225   0.123779       0.126524                4           False
+97                            ALA              ALA      0.2798          0.2129   0.050126            NaN                1           False
+98                            LEU              LEU      0.3640          0.3443   0.083270       0.039311                4           False
+99                            LYS              LYS      0.9491          1.1956   0.529869       0.608362                5           False
+100                           LEU              LEU      0.4709          0.5334   0.106825       0.098150                4           False
+101                           THR              THR      0.1341          0.1432   0.064346       0.042193                3           False
+102                           GLU              GLU      2.0108          2.6904   1.644837       1.825194                5           False
+103                           GLN              GLN      1.9909          2.6632   1.636896       1.847972                5           False
+104                           PRO              PRO      0.4419          0.5841   0.277970       0.445912                3           False
+105                           GLU              GLU      1.2204          1.6211   0.942750       1.079350                5           False
+106                           LEU              LEU      0.2694          0.2593   0.075500       0.085953                4           False
+107                           ALA              ALA      0.3466          0.2482   0.139504            NaN                1           False
+108                           ASN              ASN      1.2430          1.6973   0.852439       1.005985                4           False
+109                           LYS              LYS      0.9657          1.2760   0.797803       1.002458                5           False
+110                           VAL              VAL      0.3032          0.2232   0.145499       0.032120                3           False
+111                           ASP              ASP      0.4933          0.4963   0.157129       0.126810                4           False
+112                           MET              MET      0.9562          1.3021   0.748242       1.037827                4           False
+113                           VAL              VAL      0.4257          0.4194   0.010874       0.007545                3           False
+114                           TRP              TRP      0.4444          0.4635   0.056837       0.052901               10           False
+115                           ILE              ILE      0.7037          0.9379   0.457452       0.591835                4           False
+116                           VAL              VAL      0.3777          0.4203   0.044717       0.026289                3            True
+117                           GLY              GLY      0.3971          0.0000   0.061659            NaN                0            True
+118                           GLY              GLY      0.4237          0.0000   0.175498            NaN                0            True
+119                           SER              SER      0.8868          1.4879   0.750544       1.263003                2            True
+120                           SER              SER      0.4795          0.5944   0.107618       0.000341                2            True
+121                           VAL              VAL      0.3940          0.4182   0.049564       0.065013                3            True
+122                           TYR              TYR      0.1806          0.1989   0.050097       0.044638                8            True
+123                           LYS              LYS      2.2629          2.9951   1.593429       1.592693                5           False
+124                           GLU              GLU      1.9263          2.4795   1.012570       0.834908                5            True
+125                           ALA              ALA      0.4652          0.4127   0.060637            NaN                1           False
+126                           MET              MET      0.8495          0.9310   0.326726       0.309294                4           False
+127                           ASN              ASN      2.1465          2.6719   0.803851       0.662491                4           False
+128                           HIS              HIS      1.7882          2.1166   0.686195       0.423434                6           False
+129                           PRO              PRO      1.9563          2.5778   0.806733       0.784198                3           False
+130                           GLY              GLY      0.6709          0.0000   0.264852            NaN                0           False
+131                           HIS              HIS      1.2096          1.5425   0.789392       0.743066                6           False
+132                           LEU              LEU      0.5885          0.7038   0.146743       0.058657                4           False
+133                           LYS              LYS      0.8309          1.0765   0.589255       0.731677                5           False
+134                           LEU              LEU      0.3987          0.3888   0.048037       0.033764                4           False
+135                           PHE              PHE      1.4719          1.8377   1.105469       1.157071                7           False
+136                           VAL              VAL      0.1372          0.1495   0.055391       0.045240                3           False
+137                           THR              THR      0.2530          0.3193   0.082986       0.056473                3            True
+138                           ARG              ARG      0.1954          0.2034   0.056395       0.069313                7           False
+139                           ILE              ILE      0.2658          0.2864   0.040964       0.018986                4           False
+140                           MET              MET      1.0539          1.4209   0.623029       0.620322                4           False
+141                           GLN              GLN      0.5173          0.5728   0.208436       0.288096                5           False
+142                           ASP              ASP      0.4162          0.4868   0.129472       0.159765                4           False
+143                           PHE              PHE      0.4301          0.5055   0.147347       0.093883                7           False
+144                           GLU              GLU      1.1307          1.4848   0.831035       0.973965                5           False
+145                           SER              SER      0.4605          0.2515   0.194215       0.098307                2           False
+146                           ASP              ASP      0.6334          0.5988   0.117445       0.097169                4           False
+147                           THR              THR      0.2168          0.1611   0.071436       0.055506                3            True
+148                           PHE              PHE      1.4850          1.8528   1.089416       1.126244                7           False
+149                           PHE              PHE      1.4779          1.8476   1.108290       1.131869                7           False
+150                           PRO              PRO      0.6702          0.8984   0.328483       0.413578                3           False
+151                           GLU              GLU      2.1788          2.8445   1.276069       1.101127                5           False
+152                           ILE              ILE      0.5872          0.5278   0.076177       0.049256                4           False
+153                           ASP              ASP      0.5733          0.5226   0.078321       0.074716                4           False
+154                           LEU              LEU      0.8534          0.9221   0.092539       0.057659                4           False
+155                           GLU              GLU      2.3598          3.1054   1.503903       1.393295                5           False
+156                           LYS              LYS      1.8068          2.2963   1.177988       1.479121                5           False
+157                           TYR              TYR      0.7995          0.7782   0.111108       0.124529                8           False
+158                           LYS              LYS      1.4643          1.8719   0.810727       0.837661                5           False
+159                           LEU              LEU      0.4261          0.3427   0.100249       0.065600                4           False
+160                           LEU              LEU      0.5460          0.5352   0.076928       0.074926                4           False
+161                           PRO              PRO      1.0475          0.9412   0.273897       0.093201                3           False
+162                           GLU              GLU      1.8410          2.3833   1.046019       0.936272                5           False
+163                           TYR              TYR      1.4614          1.7512   0.971988       1.074357                8           False
+164                           PRO              PRO      0.7836          0.9313   0.163235       0.083032                3           False
+165                           GLY              GLY      0.6374          0.0000   0.048928            NaN                0           False
+166                           VAL              VAL      0.3356          0.2818   0.063951       0.010986                3           False
+167                           LEU              LEU      0.3827          0.4714   0.141766       0.115747                4           False
+168                           SER              SER      0.4079          0.2800   0.199599       0.016533                2           False
+169                           ASP              ASP      1.2238          1.5689   0.511720       0.368841                4           False
+170                           VAL              VAL      0.5736          0.5644   0.019929       0.020568                3           False
+171                           GLN              GLN      0.5957          0.5830   0.043510       0.054392                5           False
+172                           GLU              GLU      1.1572          1.4569   0.716764       0.900178                5           False
+173                           GLU              GLU      1.2284          1.5833   0.785874       0.915878                5           False
+174                           LYS              LYS      1.9823          2.6331   1.541373       1.786760                5           False
+175                           GLY              GLY      0.4178          0.0000   0.057585            NaN                0           False
+176                           ILE              ILE      0.5517          0.5664   0.018623       0.006865                4           False
+177                           LYS              LYS      0.7313          0.8613   0.286364       0.347895                5           False
+178                           TYR              TYR      1.4646          1.7581   0.966225       1.059166                8           False
+179                           LYS              LYS      0.6031          0.7669   0.365546       0.435368                5           False
+180                           PHE              PHE      0.2848          0.2927   0.069211       0.072231                7           False
+181                           GLU              GLU      1.0750          1.4337   0.898014       1.084644                5           False
+182                           VAL              VAL      0.3032          0.3331   0.057772       0.062031                3           False
+183                           TYR              TYR      1.4820          1.7814   0.963681       1.037760                8           False
+184                           GLU              GLU      1.2726          1.6243   0.826767       1.017233                5           False
+185                           LYS              LYS      1.5707          1.4267   0.736363       0.521948                5           False
+186                           ASN              ASN      6.6943          8.9141   3.348396       1.871395                4           False
+187                           ASP              ASP      6.8160          7.8230   2.019353       2.018792                5           False
+
+All atoms:
+      residue_number_af residue_name_af atom_name_af residue_name_exp atom_name_exp   distance
+0                     2             VAL            C              VAL             C   5.736076
+1                     2             VAL           CA              VAL            CA   6.400657
+2                     2             VAL           CB              VAL            CB   5.994408
+3                     2             VAL          CG1              VAL           CG1   4.848336
+4                     2             VAL          CG2              VAL           CG2   6.769638
+5                     2             VAL            N              VAL             N   7.532049
+6                     2             VAL            O              VAL             O   5.973512
+7                     3             GLY            C              GLY             C   3.734253
+8                     3             GLY           CA              GLY            CA   4.438552
+9                     3             GLY            N              GLY             N   5.121158
+10                    3             GLY            O              GLY             O   3.469465
+11                    4             SER            C              SER             C   2.226396
+12                    4             SER           CA              SER            CA   2.937023
+13                    4             SER           CB              SER            CB   2.865741
+14                    4             SER            N              SER             N   3.630363
+15                    4             SER            O              SER             O   2.092870
+16                    4             SER           OG              SER            OG   2.965709
+17                    5             LEU            C              LEU             C   0.655263
+18                    5             LEU           CA              LEU            CA   1.169262
+19                    5             LEU           CB              LEU            CB   1.450938
+20                    5             LEU          CD1              LEU           CD1   2.756112
+21                    5             LEU          CD2              LEU           CD2   2.158205
+22                    5             LEU           CG              LEU            CG   1.137670
+23                    5             LEU            N              LEU             N   1.886384
+24                    5             LEU            O              LEU             O   0.628002
+25                    6             ASN            C              ASN             C   0.327161
+26                    6             ASN           CA              ASN            CA   0.293212
+27                    6             ASN           CB              ASN            CB   0.383768
+28                    6             ASN           CG              ASN            CG   0.446250
+29                    6             ASN            N              ASN             N   0.391569
+30                    6             ASN          ND2              ASN           ND2   0.643277
+31                    6             ASN            O              ASN             O   0.446862
+32                    6             ASN          OD1              ASN           OD1   0.426593
+33                    7             CYS            C              CYS             C   0.303910
+34                    7             CYS           CA              CYS            CA   0.342742
+35                    7             CYS           CB              CYS            CB   0.393426
+36                    7             CYS            N              CYS             N   0.311353
+37                    7             CYS            O              CYS             O   0.298304
+38                    7             CYS           SG              CYS            SG   0.210526
+39                    8             ILE            C              ILE             C   0.248681
+40                    8             ILE           CA              ILE            CA   0.244967
+41                    8             ILE           CB              ILE            CB   0.251336
+42                    8             ILE          CD1              ILE           CD1   0.241952
+43                    8             ILE          CG1              ILE           CG1   0.243701
+44                    8             ILE          CG2              ILE           CG2   0.221136
+45                    8             ILE            N              ILE             N   0.317807
+46                    8             ILE            O              ILE             O   0.284970
+47                    9             VAL            C              VAL             C   0.213359
+48                    9             VAL           CA              VAL            CA   0.242299
+49                    9             VAL           CB              VAL            CB   0.287792
+50                    9             VAL          CG1              VAL           CG1   0.471158
+51                    9             VAL          CG2              VAL           CG2   0.338581
+52                    9             VAL            N              VAL             N   0.215541
+53                    9             VAL            O              VAL             O   0.323693
+54                   10             ALA            C              ALA             C   0.186320
+55                   10             ALA           CA              ALA            CA   0.143492
+56                   10             ALA           CB              ALA            CB   0.189995
+57                   10             ALA            N              ALA             N   0.195041
+58                   10             ALA            O              ALA             O   0.369001
+59                   11             VAL            C              VAL             C   0.062968
+60                   11             VAL           CA              VAL            CA   0.100180
+61                   11             VAL           CB              VAL            CB   0.121746
+62                   11             VAL          CG1              VAL           CG1   0.197101
+63                   11             VAL          CG2              VAL           CG2   0.137379
+64                   11             VAL            N              VAL             N   0.122825
+65                   11             VAL            O              VAL             O   0.071091
+66                   12             SER            C              SER             C   0.060092
+67                   12             SER           CA              SER            CA   0.069376
+68                   12             SER           CB              SER            CB   0.139603
+69                   12             SER            N              SER             N   0.056232
+70                   12             SER            O              SER             O   0.104312
+71                   12             SER           OG              SER            OG   0.264819
+72                   13             GLN            C              GLN             C   0.097026
+73                   13             GLN           CA              GLN            CA   0.115935
+74                   13             GLN           CB              GLN            CB   0.165151
+75                   13             GLN           CD              GLN            CD   0.192889
+76                   13             GLN           CG              GLN            CG   0.151826
+77                   13             GLN            N              GLN             N   0.082177
+78                   13             GLN          NE2              GLN           NE2   1.591660
+79                   13             GLN            O              GLN             O   0.201656
+80                   13             GLN          OE1              GLN           OE1   1.692981
+81                   14             ASN            C              ASN             C   0.167239
+82                   14             ASN           CA              ASN            CA   0.075531
+83                   14             ASN           CB              ASN            CB   0.093606
+84                   14             ASN           CG              ASN            CG   0.202721
+85                   14             ASN            N              ASN             N   0.120337
+86                   14             ASN          ND2              ASN           ND2   0.236434
+87                   14             ASN            O              ASN             O   0.156863
+88                   14             ASN          OD1              ASN           OD1   0.582661
+89                   15             MET            C              MET             C   0.247132
+90                   15             MET           CA              MET            CA   0.223439
+91                   15             MET           CB              MET            CB   0.439322
+92                   15             MET           CE              MET            CE   3.049922
+93                   15             MET           CG              MET            CG   0.570735
+94                   15             MET            N              MET             N   0.226427
+95                   15             MET            O              MET             O   0.294024
+96                   15             MET           SD              MET            SD   0.603804
+97                   16             GLY            C              GLY             C   0.119775
+98                   16             GLY           CA              GLY            CA   0.218737
+99                   16             GLY            N              GLY             N   0.233934
+100                  16             GLY            O              GLY             O   0.096431
+101                  17             ILE            C              ILE             C   0.228515
+102                  17             ILE           CA              ILE            CA   0.129754
+103                  17             ILE           CB              ILE            CB   0.115957
+104                  17             ILE          CD1              ILE           CD1   0.172598
+105                  17             ILE          CG1              ILE           CG1   0.160602
+106                  17             ILE          CG2              ILE           CG2   0.090807
+107                  17             ILE            N              ILE             N   0.112512
+108                  17             ILE            O              ILE             O   0.361925
+109                  18             GLY            C              GLY             C   0.426977
+110                  18             GLY           CA              GLY            CA   0.418442
+111                  18             GLY            N              GLY             N   0.254678
+112                  18             GLY            O              GLY             O   0.475366
+113                  19             LYS            C              LYS             C   0.432494
+114                  19             LYS           CA              LYS            CA   0.346426
+115                  19             LYS           CB              LYS            CB   0.260050
+116                  19             LYS           CD              LYS            CD   2.135471
+117                  19             LYS           CE              LYS            CE   3.613157
+118                  19             LYS           CG              LYS            CG   0.224831
+119                  19             LYS            N              LYS             N   0.388331
+120                  19             LYS           NZ              LYS            NZ   5.623745
+121                  19             LYS            O              LYS             O   0.431450
+122                  20             ASN            C              ASN             C   0.800314
+123                  20             ASN           CA              ASN            CA   0.648403
+124                  20             ASN           CB              ASN            CB   0.717539
+125                  20             ASN           CG              ASN            CG   0.770993
+126                  20             ASN            N              ASN             N   0.548716
+127                  20             ASN          ND2              ASN           ND2   0.874840
+128                  20             ASN            O              ASN             O   1.130203
+129                  20             ASN          OD1              ASN           OD1   0.792408
+130                  21             GLY            C              GLY             C   0.721435
+131                  21             GLY           CA              GLY            CA   0.730001
+132                  21             GLY            N              GLY             N   0.664010
+133                  21             GLY            O              GLY             O   1.015655
+134                  22             ASP            C              ASP             C   0.526282
+135                  22             ASP           CA              ASP            CA   0.579670
+136                  22             ASP           CB              ASP            CB   0.544570
+137                  22             ASP           CG              ASP            CG   2.162253
+138                  22             ASP            N              ASP             N   0.610871
+139                  22             ASP            O              ASP             O   0.513414
+140                  22             ASP          OD1              ASP           OD1   3.083513
+141                  22             ASP          OD2              ASP           OD2   2.759160
+142                  23             LEU            C              LEU             C   0.394473
+143                  23             LEU           CA              LEU            CA   0.399674
+144                  23             LEU           CB              LEU            CB   0.446038
+145                  23             LEU          CD1              LEU           CD1   0.982453
+146                  23             LEU          CD2              LEU           CD2   0.417252
+147                  23             LEU           CG              LEU            CG   0.377584
+148                  23             LEU            N              LEU             N   0.526397
+149                  23             LEU            O              LEU             O   0.296746
+150                  24             PRO            C              PRO             C   0.344006
+151                  24             PRO           CA              PRO            CA   0.328629
+152                  24             PRO           CB              PRO            CB   0.234659
+153                  24             PRO           CD              PRO            CD   0.432353
+154                  24             PRO           CG              PRO            CG   0.303125
+155                  24             PRO            N              PRO             N   0.384773
+156                  24             PRO            O              PRO             O   0.322070
+157                  25             TRP            C              TRP             C   0.569068
+158                  25             TRP           CA              TRP            CA   0.481619
+159                  25             TRP           CB              TRP            CB   0.488579
+160                  25             TRP          CD1              TRP           CD1   0.473400
+161                  25             TRP          CD2              TRP           CD2   0.432853
+162                  25             TRP          CE2              TRP           CE2   0.467441
+163                  25             TRP          CE3              TRP           CE3   0.457305
+164                  25             TRP           CG              TRP            CG   0.455818
+165                  25             TRP          CH2              TRP           CH2   0.505341
+166                  25             TRP          CZ2              TRP           CZ2   0.509122
+167                  25             TRP          CZ3              TRP           CZ3   0.491158
+168                  25             TRP            N              TRP             N   0.404778
+169                  25             TRP          NE1              TRP           NE1   0.440774
+170                  25             TRP            O              TRP             O   0.565497
+171                  26             PRO            C              PRO             C   0.681307
+172                  26             PRO           CA              PRO            CA   0.618370
+173                  26             PRO           CB              PRO            CB   0.620089
+174                  26             PRO           CD              PRO            CD   0.712152
+175                  26             PRO           CG              PRO            CG   1.296502
+176                  26             PRO            N              PRO             N   0.631128
+177                  26             PRO            O              PRO             O   0.485092
+178                  27             PRO            C              PRO             C   0.948755
+179                  27             PRO           CA              PRO            CA   0.949952
+180                  27             PRO           CB              PRO            CB   1.141915
+181                  27             PRO           CD              PRO            CD   1.180592
+182                  27             PRO           CG              PRO            CG   1.285206
+183                  27             PRO            N              PRO             N   0.887498
+184                  27             PRO            O              PRO             O   1.195835
+185                  28             LEU            C              LEU             C   0.666591
+186                  28             LEU           CA              LEU            CA   0.688332
+187                  28             LEU           CB              LEU            CB   0.564981
+188                  28             LEU          CD1              LEU           CD1   0.253783
+189                  28             LEU          CD2              LEU           CD2   0.661518
+190                  28             LEU           CG              LEU            CG   0.497976
+191                  28             LEU            N              LEU             N   0.750590
+192                  28             LEU            O              LEU             O   0.800765
+193                  29             ARG            C              ARG             C   0.497260
+194                  29             ARG           CA              ARG            CA   0.664979
+195                  29             ARG           CB              ARG            CB   0.871400
+196                  29             ARG           CD              ARG            CD   1.126704
+197                  29             ARG           CG              ARG            CG   1.018408
+198                  29             ARG           CZ              ARG            CZ   2.262978
+199                  29             ARG            N              ARG             N   0.593426
+200                  29             ARG           NE              ARG            NE   1.650152
+201                  29             ARG          NH1              ARG           NH1   0.813330
+202                  29             ARG          NH2              ARG           NH2   4.562023
+203                  29             ARG            O              ARG             O   0.470783
+204                  30             ASN            C              ASN             C   0.323433
+205                  30             ASN           CA              ASN            CA   0.326714
+206                  30             ASN           CB              ASN            CB   0.284180
+207                  30             ASN           CG              ASN            CG   0.390479
+208                  30             ASN            N              ASN             N   0.452841
+209                  30             ASN          ND2              ASN           ND2   0.634626
+210                  30             ASN            O              ASN             O   0.343168
+211                  30             ASN          OD1              ASN           OD1   0.276342
+212                  31             GLU            C              GLU             C   0.403225
+213                  31             GLU           CA              GLU            CA   0.404922
+214                  31             GLU           CB              GLU            CB   0.482378
+215                  31             GLU           CD              GLU            CD   0.804735
+216                  31             GLU           CG              GLU            CG   0.710810
+217                  31             GLU            N              GLU             N   0.346205
+218                  31             GLU            O              GLU             O   0.380793
+219                  31             GLU          OE1              GLU           OE1   1.770025
+220                  31             GLU          OE2              GLU           OE2   2.819466
+221                  32             PHE            C              PHE             C   0.441077
+222                  32             PHE           CA              PHE            CA   0.513616
+223                  32             PHE           CB              PHE            CB   0.534895
+224                  32             PHE          CD1              PHE           CD1   0.367056
+225                  32             PHE          CD2              PHE           CD2   0.433956
+226                  32             PHE          CE1              PHE           CE1   0.264454
+227                  32             PHE          CE2              PHE           CE2   0.360649
+228                  32             PHE           CG              PHE            CG   0.422612
+229                  32             PHE           CZ              PHE            CZ   0.258397
+230                  32             PHE            N              PHE             N   0.471432
+231                  32             PHE            O              PHE             O   0.469513
+232                  33             ARG            C              ARG             C   0.439227
+233                  33             ARG           CA              ARG            CA   0.468823
+234                  33             ARG           CB              ARG            CB   0.503657
+235                  33             ARG           CD              ARG            CD   0.592705
+236                  33             ARG           CG              ARG            CG   0.542237
+237                  33             ARG           CZ              ARG            CZ   0.954619
+238                  33             ARG            N              ARG             N   0.455213
+239                  33             ARG           NE              ARG            NE   0.613062
+240                  33             ARG          NH1              ARG           NH1   1.314762
+241                  33             ARG          NH2              ARG           NH2   1.039931
+242                  33             ARG            O              ARG             O   0.451328
+243                  34             TYR            C              TYR             C   0.365766
+244                  34             TYR           CA              TYR            CA   0.389909
+245                  34             TYR           CB              TYR            CB   0.318020
+246                  34             TYR          CD1              TYR           CD1   2.699668
+247                  34             TYR          CD2              TYR           CD2   2.152800
+248                  34             TYR          CE1              TYR           CE1   2.864211
+249                  34             TYR          CE2              TYR           CE2   2.012710
+250                  34             TYR           CG              TYR            CG   0.376311
+251                  34             TYR           CZ              TYR            CZ   0.616797
+252                  34             TYR            N              TYR             N   0.391331
+253                  34             TYR            O              TYR             O   0.252210
+254                  34             TYR           OH              TYR            OH   0.746687
+255                  35             PHE            C              PHE             C   0.355917
+256                  35             PHE           CA              PHE            CA   0.340577
+257                  35             PHE           CB              PHE            CB   0.289228
+258                  35             PHE          CD1              PHE           CD1   0.233491
+259                  35             PHE          CD2              PHE           CD2   0.334954
+260                  35             PHE          CE1              PHE           CE1   0.260891
+261                  35             PHE          CE2              PHE           CE2   0.342446
+262                  35             PHE           CG              PHE            CG   0.288212
+263                  35             PHE           CZ              PHE            CZ   0.329948
+264                  35             PHE            N              PHE             N   0.378791
+265                  35             PHE            O              PHE             O   0.357462
+266                  36             LYS            C              GLN             C   0.369119
+267                  36             LYS           CA              GLN            CA   0.375295
+268                  36             LYS           CB              GLN            CB   0.380636
+269                  36             LYS           CD              GLN            CD   0.542228
+270                  36             LYS           CE              GLN            CG   2.311458
+271                  36             LYS           CG              GLN             N   3.697068
+272                  36             LYS            N              GLN           NE2   6.331710
+273                  36             LYS           NZ              GLN             O   6.371040
+274                  36             LYS            O              GLN           OE1   5.926412
+275                  37             ARG            C              ARG             C   0.419111
+276                  37             ARG           CA              ARG            CA   0.428563
+277                  37             ARG           CB              ARG            CB   0.395515
+278                  37             ARG           CD              ARG            CD   0.426147
+279                  37             ARG           CG              ARG            CG   0.363957
+280                  37             ARG           CZ              ARG            CZ   0.475527
+281                  37             ARG            N              ARG             N   0.410718
+282                  37             ARG           NE              ARG            NE   0.436158
+283                  37             ARG          NH1              ARG           NH1   0.587529
+284                  37             ARG          NH2              ARG           NH2   0.461560
+285                  37             ARG            O              ARG             O   0.412866
+286                  38             MET            C              MET             C   0.418190
+287                  38             MET           CA              MET            CA   0.458672
+288                  38             MET           CB              MET            CB   0.425191
+289                  38             MET           CE              MET            CE   0.643397
+290                  38             MET           CG              MET            CG   0.497399
+291                  38             MET            N              MET             N   0.458331
+292                  38             MET            O              MET             O   0.383710
+293                  38             MET           SD              MET            SD   0.397765
+294                  39             THR            C              THR             C   0.267464
+295                  39             THR           CA              THR            CA   0.334719
+296                  39             THR           CB              THR            CB   0.296528
+297                  39             THR          CG2              THR           CG2   0.331361
+298                  39             THR            N              THR             N   0.380120
+299                  39             THR            O              THR             O   0.267486
+300                  39             THR          OG1              THR           OG1   0.313621
+301                  40             THR            C              THR             C   0.284819
+302                  40             THR           CA              THR            CA   0.324262
+303                  40             THR           CB              THR            CB   0.281828
+304                  40             THR          CG2              THR           CG2   0.208741
+305                  40             THR            N              THR             N   0.393315
+306                  40             THR            O              THR             O   0.256345
+307                  40             THR          OG1              THR           OG1   0.299618
+308                  41             THR            C              THR             C   0.321392
+309                  41             THR           CA              THR            CA   0.345445
+310                  41             THR           CB              THR            CB   0.434792
+311                  41             THR          CG2              THR           CG2   0.506796
+312                  41             THR            N              THR             N   0.300764
+313                  41             THR            O              THR             O   0.287934
+314                  41             THR          OG1              THR           OG1   0.538984
+315                  42             SER            C              SER             C   0.440070
+316                  42             SER           CA              SER            CA   0.458349
+317                  42             SER           CB              SER            CB   0.504029
+318                  42             SER            N              SER             N   0.337286
+319                  42             SER            O              SER             O   0.346736
+320                  42             SER           OG              SER            OG   0.537718
+321                  43             SER            C              SER             C   0.935390
+322                  43             SER           CA              SER            CA   1.032358
+323                  43             SER           CB              SER            CB   1.426242
+324                  43             SER            N              SER             N   0.766400
+325                  43             SER            O              SER             O   1.152046
+326                  43             SER           OG              SER            OG   1.741928
+327                  44             VAL            C              VAL             C   0.618652
+328                  44             VAL           CA              VAL            CA   0.713550
+329                  44             VAL           CB              VAL            CB   0.789519
+330                  44             VAL          CG1              VAL           CG1   0.885784
+331                  44             VAL          CG2              VAL           CG2   0.894187
+332                  44             VAL            N              VAL             N   0.656553
+333                  44             VAL            O              VAL             O   0.463070
+334                  45             GLU            C              GLU             C   1.004738
+335                  45             GLU           CA              GLU            CA   0.953124
+336                  45             GLU           CB              GLU            CB   1.262422
+337                  45             GLU           CD              GLU            CD   2.075836
+338                  45             GLU           CG              GLU            CG   1.384398
+339                  45             GLU            N              GLU             N   0.851543
+340                  45             GLU            O              GLU             O   1.084827
+341                  45             GLU          OE1              GLU           OE1   4.071254
+342                  45             GLU          OE2              GLU           OE2   2.796082
+343                  46             GLY            C              GLY             C   0.962648
+344                  46             GLY           CA              GLY            CA   1.088809
+345                  46             GLY            N              GLY             N   0.991937
+346                  46             GLY            O              GLY             O   1.473982
+347                  47             LYS            C              LYS             C   0.189045
+348                  47             LYS           CA              LYS            CA   0.275396
+349                  47             LYS           CB              LYS            CB   0.374683
+350                  47             LYS           CD              LYS            CD   0.379692
+351                  47             LYS           CE              LYS            CE   0.723354
+352                  47             LYS           CG              LYS            CG   0.371883
+353                  47             LYS            N              LYS             N   0.392201
+354                  47             LYS           NZ              LYS            NZ   1.076121
+355                  47             LYS            O              LYS             O   0.277851
+356                  48             GLN            C              GLN             C   0.075690
+357                  48             GLN           CA              GLN            CA   0.106499
+358                  48             GLN           CB              GLN            CB   0.237664
+359                  48             GLN           CD              GLN            CD   0.651525
+360                  48             GLN           CG              GLN            CG   0.163055
+361                  48             GLN            N              GLN             N   0.063632
+362                  48             GLN          NE2              GLN           NE2   2.082709
+363                  48             GLN            O              GLN             O   0.148172
+364                  48             GLN          OE1              GLN           OE1   1.588386
+365                  49             ASN            C              ASN             C   0.164754
+366                  49             ASN           CA              ASN            CA   0.113811
+367                  49             ASN           CB              ASN            CB   0.122270
+368                  49             ASN           CG              ASN            CG   0.164381
+369                  49             ASN            N              ASN             N   0.094910
+370                  49             ASN          ND2              ASN           ND2   0.291062
+371                  49             ASN            O              ASN             O   0.282337
+372                  49             ASN          OD1              ASN           OD1   0.104087
+373                  50             LEU            C              LEU             C   0.198580
+374                  50             LEU           CA              LEU            CA   0.243218
+375                  50             LEU           CB              LEU            CB   0.263839
+376                  50             LEU          CD1              LEU           CD1   0.271945
+377                  50             LEU          CD2              LEU           CD2   0.068396
+378                  50             LEU           CG              LEU            CG   0.228626
+379                  50             LEU            N              LEU             N   0.194291
+380                  50             LEU            O              LEU             O   0.186574
+381                  51             VAL            C              VAL             C   0.190825
+382                  51             VAL           CA              VAL            CA   0.198414
+383                  51             VAL           CB              VAL            CB   0.232200
+384                  51             VAL          CG1              VAL           CG1   0.281871
+385                  51             VAL          CG2              VAL           CG2   0.307651
+386                  51             VAL            N              VAL             N   0.222607
+387                  51             VAL            O              VAL             O   0.287390
+388                  52             ILE            C              ILE             C   0.174256
+389                  52             ILE           CA              ILE            CA   0.147397
+390                  52             ILE           CB              ILE            CB   0.099880
+391                  52             ILE          CD1              ILE           CD1   0.063600
+392                  52             ILE          CG1              ILE           CG1   0.187686
+393                  52             ILE          CG2              ILE           CG2   0.104139
+394                  52             ILE            N              ILE             N   0.170206
+395                  52             ILE            O              ILE             O   0.190916
+396                  53             MET            C              MET             C   0.295103
+397                  53             MET           CA              MET            CA   0.246666
+398                  53             MET           CB              MET            CB   0.270217
+399                  53             MET           CE              MET            CE   0.418907
+400                  53             MET           CG              MET            CG   0.247942
+401                  53             MET            N              MET             N   0.226245
+402                  53             MET            O              MET             O   0.287446
+403                  53             MET           SD              MET            SD   0.290990
+404                  54             GLY            C              GLY             C   0.348612
+405                  54             GLY           CA              GLY            CA   0.342300
+406                  54             GLY            N              GLY             N   0.341522
+407                  54             GLY            O              GLY             O   0.558971
+408                  55             LYS            C              LYS             C   0.367067
+409                  55             LYS           CA              LYS            CA   0.343338
+410                  55             LYS           CB              LYS            CB   0.447019
+411                  55             LYS           CD              LYS            CD   0.555966
+412                  55             LYS           CE              LYS            CE   0.645068
+413                  55             LYS           CG              LYS            CG   0.433504
+414                  55             LYS            N              LYS             N   0.241052
+415                  55             LYS           NZ              LYS            NZ   1.060522
+416                  55             LYS            O              LYS             O   0.342099
+417                  56             LYS            C              LYS             C   0.473926
+418                  56             LYS           CA              LYS            CA   0.517899
+419                  56             LYS           CB              LYS            CB   0.551214
+420                  56             LYS           CD              LYS            CD   1.547061
+421                  56             LYS           CE              LYS            CE   3.821207
+422                  56             LYS           CG              LYS            CG   1.781784
+423                  56             LYS            N              LYS             N   0.441808
+424                  56             LYS           NZ              LYS            NZ   3.814177
+425                  56             LYS            O              LYS             O   0.348264
+426                  57             THR            C              THR             C   0.366748
+427                  57             THR           CA              THR            CA   0.475269
+428                  57             THR           CB              THR            CB   0.453499
+429                  57             THR          CG2              THR           CG2   0.501702
+430                  57             THR            N              THR             N   0.509919
+431                  57             THR            O              THR             O   0.384897
+432                  57             THR          OG1              THR           OG1   0.364816
+433                  58             TRP            C              TRP             C   0.228661
+434                  58             TRP           CA              TRP            CA   0.237664
+435                  58             TRP           CB              TRP            CB   0.243633
+436                  58             TRP          CD1              TRP           CD1   0.183469
+437                  58             TRP          CD2              TRP           CD2   0.137499
+438                  58             TRP          CE2              TRP           CE2   0.096094
+439                  58             TRP          CE3              TRP           CE3   0.125925
+440                  58             TRP           CG              TRP            CG   0.185591
+441                  58             TRP          CH2              TRP           CH2   0.148388
+442                  58             TRP          CZ2              TRP           CZ2   0.105171
+443                  58             TRP          CZ3              TRP           CZ3   0.137931
+444                  58             TRP            N              TRP             N   0.306950
+445                  58             TRP          NE1              TRP           NE1   0.130958
+446                  58             TRP            O              TRP             O   0.178933
+447                  59             PHE            C              PHE             C   0.416014
+448                  59             PHE           CA              PHE            CA   0.394783
+449                  59             PHE           CB              PHE            CB   0.474702
+450                  59             PHE          CD1              PHE           CD1   0.371237
+451                  59             PHE          CD2              PHE           CD2   0.668950
+452                  59             PHE          CE1              PHE           CE1   0.375097
+453                  59             PHE          CE2              PHE           CE2   0.718891
+454                  59             PHE           CG              PHE            CG   0.482893
+455                  59             PHE           CZ              PHE            CZ   0.553652
+456                  59             PHE            N              PHE             N   0.354054
+457                  59             PHE            O              PHE             O   0.467240
+458                  60             SER            C              SER             C   0.427985
+459                  60             SER           CA              SER            CA   0.482894
+460                  60             SER           CB              SER            CB   0.543674
+461                  60             SER            N              SER             N   0.457132
+462                  60             SER            O              SER             O   0.443245
+463                  60             SER           OG              SER            OG   0.406769
+464                  61             ILE            C              ILE             C   0.376198
+465                  61             ILE           CA              ILE            CA   0.376846
+466                  61             ILE           CB              ILE            CB   0.326222
+467                  61             ILE          CD1              ILE           CD1   0.489617
+468                  61             ILE          CG1              ILE           CG1   0.520424
+469                  61             ILE          CG2              ILE           CG2   0.198489
+470                  61             ILE            N              ILE             N   0.466536
+471                  61             ILE            O              ILE             O   0.409434
+472                  62             PRO            C              PRO             C   0.435774
+473                  62             PRO           CA              PRO            CA   0.400642
+474                  62             PRO           CB              PRO            CB   0.390022
+475                  62             PRO           CD              PRO            CD   0.343447
+476                  62             PRO           CG              PRO            CG   0.348434
+477                  62             PRO            N              PRO             N   0.362265
+478                  62             PRO            O              PRO             O   0.476282
+479                  63             GLU            C              GLU             C   0.232314
+480                  63             GLU           CA              GLU            CA   0.307151
+481                  63             GLU           CB              GLU            CB   0.273564
+482                  63             GLU           CD              GLU            CD   1.955660
+483                  63             GLU           CG              GLU            CG   1.960327
+484                  63             GLU            N              GLU             N   0.459749
+485                  63             GLU            O              GLU             O   0.203249
+486                  63             GLU          OE1              GLU           OE1   1.675781
+487                  63             GLU          OE2              GLU           OE2   2.437006
+488                  64             LYS            C              LYS             C   0.345562
+489                  64             LYS           CA              LYS            CA   0.362000
+490                  64             LYS           CB              LYS            CB   0.381830
+491                  64             LYS           CD              LYS            CD   0.281674
+492                  64             LYS           CE              LYS            CE   2.331309
+493                  64             LYS           CG              LYS            CG   0.256394
+494                  64             LYS            N              LYS             N   0.338590
+495                  64             LYS           NZ              LYS            NZ   2.395278
+496                  64             LYS            O              LYS             O   0.474948
+497                  65             ASN            C              ASN             C   0.166628
+498                  65             ASN           CA              ASN            CA   0.165904
+499                  65             ASN           CB              ASN            CB   0.087464
+500                  65             ASN           CG              ASN            CG   0.221497
+501                  65             ASN            N              ASN             N   0.301412
+502                  65             ASN          ND2              ASN           ND2   2.603797
+503                  65             ASN            O              ASN             O   0.142394
+504                  65             ASN          OD1              ASN           OD1   1.777834
+505                  66             ARG            C              ARG             C   0.354267
+506                  66             ARG           CA              ARG            CA   0.298766
+507                  66             ARG           CB              ARG            CB   0.232891
+508                  66             ARG           CD              ARG            CD   0.312450
+509                  66             ARG           CG              ARG            CG   0.253569
+510                  66             ARG           CZ              ARG            CZ   0.864409
+511                  66             ARG            N              ARG             N   0.236110
+512                  66             ARG           NE              ARG            NE   0.634304
+513                  66             ARG          NH1              ARG           NH1   0.607393
+514                  66             ARG          NH2              ARG           NH2   1.519602
+515                  66             ARG            O              ARG             O   0.486287
+516                  67             PRO            C              PRO             C   0.168976
+517                  67             PRO           CA              PRO            CA   0.234374
+518                  67             PRO           CB              PRO            CB   0.217963
+519                  67             PRO           CD              PRO            CD   0.313702
+520                  67             PRO           CG              PRO            CG   0.248427
+521                  67             PRO            N              PRO             N   0.276315
+522                  67             PRO            O              PRO             O   0.193238
+523                  68             LEU            C              LEU             C   0.189963
+524                  68             LEU           CA              LEU            CA   0.047043
+525                  68             LEU           CB              LEU            CB   0.118313
+526                  68             LEU          CD1              LEU           CD1   0.109018
+527                  68             LEU          CD2              LEU           CD2   0.111463
+528                  68             LEU           CG              LEU            CG   0.101079
+529                  68             LEU            N              LEU             N   0.119004
+530                  68             LEU            O              LEU             O   0.532031
+531                  69             LYS            C              LYS             C   0.284005
+532                  69             LYS           CA              LYS            CA   0.191484
+533                  69             LYS           CB              LYS            CB   0.213666
+534                  69             LYS           CD              LYS            CD   2.187406
+535                  69             LYS           CE              LYS            CE   4.719166
+536                  69             LYS           CG              LYS            CG   2.342189
+537                  69             LYS            N              LYS             N   0.091335
+538                  69             LYS           NZ              LYS            NZ   4.779332
+539                  69             LYS            O              LYS             O   0.329870
+540                  70             GLY            C              GLY             C   0.279503
+541                  70             GLY           CA              GLY            CA   0.428488
+542                  70             GLY            N              GLY             N   0.414995
+543                  70             GLY            O              GLY             O   0.362654
+544                  71             ARG            C              ARG             C   0.116572
+545                  71             ARG           CA              ARG            CA   0.102157
+546                  71             ARG           CB              ARG            CB   0.114987
+547                  71             ARG           CD              ARG            CD   0.280865
+548                  71             ARG           CG              ARG            CG   0.186456
+549                  71             ARG           CZ              ARG            CZ   0.362971
+550                  71             ARG            N              ARG             N   0.144672
+551                  71             ARG           NE              ARG            NE   0.294185
+552                  71             ARG          NH1              ARG           NH1   0.366516
+553                  71             ARG          NH2              ARG           NH2   0.440074
+554                  71             ARG            O              ARG             O   0.095530
+555                  72             ILE            C              ILE             C   0.198429
+556                  72             ILE           CA              ILE            CA   0.191687
+557                  72             ILE           CB              ILE            CB   0.252693
+558                  72             ILE          CD1              ILE           CD1   0.224350
+559                  72             ILE          CG1              ILE           CG1   0.197345
+560                  72             ILE          CG2              ILE           CG2   0.225550
+561                  72             ILE            N              ILE             N   0.156237
+562                  72             ILE            O              ILE             O   0.313281
+563                  73             ASN            C              ASN             C   0.170663
+564                  73             ASN           CA              ASN            CA   0.178443
+565                  73             ASN           CB              ASN            CB   0.225073
+566                  73             ASN           CG              ASN            CG   0.312163
+567                  73             ASN            N              ASN             N   0.204414
+568                  73             ASN          ND2              ASN           ND2   0.233043
+569                  73             ASN            O              ASN             O   0.177935
+570                  73             ASN          OD1              ASN           OD1   0.460693
+571                  74             LEU            C              LEU             C   0.152306
+572                  74             LEU           CA              LEU            CA   0.144028
+573                  74             LEU           CB              LEU            CB   0.097273
+574                  74             LEU          CD1              LEU           CD1   0.086290
+575                  74             LEU          CD2              LEU           CD2   0.132034
+576                  74             LEU           CG              LEU            CG   0.107005
+577                  74             LEU            N              LEU             N   0.151040
+578                  74             LEU            O              LEU             O   0.147201
+579                  75             VAL            C              VAL             C   0.292780
+580                  75             VAL           CA              VAL            CA   0.229826
+581                  75             VAL           CB              VAL            CB   0.219322
+582                  75             VAL          CG1              VAL           CG1   0.311137
+583                  75             VAL          CG2              VAL           CG2   0.256240
+584                  75             VAL            N              VAL             N   0.184415
+585                  75             VAL            O              VAL             O   0.301629
+586                  76             LEU            C              LEU             C   0.458087
+587                  76             LEU           CA              LEU            CA   0.393651
+588                  76             LEU           CB              LEU            CB   0.315780
+589                  76             LEU          CD1              LEU           CD1   0.210431
+590                  76             LEU          CD2              LEU           CD2   0.147340
+591                  76             LEU           CG              LEU            CG   0.158218
+592                  76             LEU            N              LEU             N   0.332208
+593                  76             LEU            O              LEU             O   0.478157
+594                  77             SER            C              SER             C   0.597550
+595                  77             SER           CA              SER            CA   0.501959
+596                  77             SER           CB              SER            CB   0.442426
+597                  77             SER            N              SER             N   0.496472
+598                  77             SER            O              SER             O   0.578427
+599                  77             SER           OG              SER            OG   0.662012
+600                  78             ARG            C              ARG             C   0.749245
+601                  78             ARG           CA              ARG            CA   0.929902
+602                  78             ARG           CB              ARG            CB   1.251475
+603                  78             ARG           CD              ARG            CD   1.679239
+604                  78             ARG           CG              ARG            CG   1.438424
+605                  78             ARG           CZ              ARG            CZ   2.148965
+606                  78             ARG            N              ARG             N   0.761215
+607                  78             ARG           NE              ARG            NE   2.009094
+608                  78             ARG          NH1              ARG           NH1   2.138903
+609                  78             ARG          NH2              ARG           NH2   2.377612
+610                  78             ARG            O              ARG             O   0.992929
+611                  79             GLU            C              GLU             C   0.302169
+612                  79             GLU           CA              GLU            CA   0.351717
+613                  79             GLU           CB              GLU            CB   0.347485
+614                  79             GLU           CD              GLU            CD   0.593164
+615                  79             GLU           CG              GLU            CG   0.368925
+616                  79             GLU            N              GLU             N   0.420017
+617                  79             GLU            O              GLU             O   0.283655
+618                  79             GLU          OE1              GLU           OE1   2.500516
+619                  79             GLU          OE2              GLU           OE2   2.002866
+620                  80             LEU            C              LEU             C   0.229848
+621                  80             LEU           CA              LEU            CA   0.239362
+622                  80             LEU           CB              LEU            CB   0.278122
+623                  80             LEU          CD1              LEU           CD1   0.390904
+624                  80             LEU          CD2              LEU           CD2   0.301735
+625                  80             LEU           CG              LEU            CG   0.317153
+626                  80             LEU            N              LEU             N   0.284616
+627                  80             LEU            O              LEU             O   0.235245
+628                  81             LYS            C              LYS             C   0.224698
+629                  81             LYS           CA              LYS            CA   0.206654
+630                  81             LYS           CB              LYS            CB   0.284113
+631                  81             LYS           CD              LYS            CD   0.439666
+632                  81             LYS           CE              LYS            CE   1.850178
+633                  81             LYS           CG              LYS            CG   0.263306
+634                  81             LYS            N              LYS             N   0.218552
+635                  81             LYS           NZ              LYS            NZ   1.212276
+636                  81             LYS            O              LYS             O   0.322078
+637                  82             GLU            C              GLU             C   0.294511
+638                  82             GLU           CA              GLU            CA   0.322692
+639                  82             GLU           CB              GLU            CB   0.460275
+640                  82             GLU           CD              GLU            CD   0.752651
+641                  82             GLU           CG              GLU            CG   0.537986
+642                  82             GLU            N              GLU             N   0.228300
+643                  82             GLU            O              GLU             O   0.284278
+644                  82             GLU          OE1              GLU           OE1   2.829514
+645                  82             GLU          OE2              GLU           OE2   1.517096
+646                  83             PRO            C              PRO             C   0.309687
+647                  83             PRO           CA              PRO            CA   0.265789
+648                  83             PRO           CB              PRO            CB   0.260718
+649                  83             PRO           CD              PRO            CD   0.328296
+650                  83             PRO           CG              PRO            CG   0.247212
+651                  83             PRO            N              PRO             N   0.295230
+652                  83             PRO            O              PRO             O   0.319279
+653                  84             PRO            C              PRO             C   0.516804
+654                  84             PRO           CA              PRO            CA   0.385130
+655                  84             PRO           CB              PRO            CB   0.560978
+656                  84             PRO           CD              PRO            CD   0.312131
+657                  84             PRO           CG              PRO            CG   0.657442
+658                  84             PRO            N              PRO             N   0.332218
+659                  84             PRO            O              PRO             O   0.768021
+660                  85             GLN            C              GLN             C   0.148088
+661                  85             GLN           CA              GLN            CA   0.219358
+662                  85             GLN           CB              GLN            CB   0.137062
+663                  85             GLN           CD              GLN            CD   0.355677
+664                  85             GLN           CG              GLN            CG   0.254348
+665                  85             GLN            N              GLN             N   0.351103
+666                  85             GLN          NE2              GLN           NE2   0.463805
+667                  85             GLN            O              GLN             O   0.284304
+668                  85             GLN          OE1              GLN           OE1   0.435624
+669                  86             GLY            C              GLY             C   0.169570
+670                  86             GLY           CA              GLY            CA   0.162877
+671                  86             GLY            N              GLY             N   0.175482
+672                  86             GLY            O              GLY             O   0.156221
+673                  87             ALA            C              ALA             C   0.179271
+674                  87             ALA           CA              ALA            CA   0.233996
+675                  87             ALA           CB              ALA            CB   0.220139
+676                  87             ALA            N              ALA             N   0.265234
+677                  87             ALA            O              ALA             O   0.275755
+678                  88             HIS            C              HIS             C   0.136532
+679                  88             HIS           CA              HIS            CA   0.173231
+680                  88             HIS           CB              HIS            CB   0.159283
+681                  88             HIS          CD2              HIS           CD2   0.727692
+682                  88             HIS          CE1              HIS           CE1   0.215209
+683                  88             HIS           CG              HIS            CG   0.272062
+684                  88             HIS            N              HIS             N   0.211230
+685                  88             HIS          ND1              HIS           ND1   0.275323
+686                  88             HIS          NE2              HIS           NE2   0.666254
+687                  88             HIS            O              HIS             O   0.204558
+688                  89             PHE            C              PHE             C   0.203049
+689                  89             PHE           CA              PHE            CA   0.176830
+690                  89             PHE           CB              PHE            CB   0.166607
+691                  89             PHE          CD1              PHE           CD1   0.316800
+692                  89             PHE          CD2              PHE           CD2   0.257824
+693                  89             PHE          CE1              PHE           CE1   0.371831
+694                  89             PHE          CE2              PHE           CE2   0.302511
+695                  89             PHE           CG              PHE            CG   0.215826
+696                  89             PHE           CZ              PHE            CZ   0.319640
+697                  89             PHE            N              PHE             N   0.148603
+698                  89             PHE            O              PHE             O   0.198708
+699                  90             LEU            C              LEU             C   0.271606
+700                  90             LEU           CA              LEU            CA   0.247899
+701                  90             LEU           CB              LEU            CB   0.292351
+702                  90             LEU          CD1              LEU           CD1   0.502484
+703                  90             LEU          CD2              LEU           CD2   0.464514
+704                  90             LEU           CG              LEU            CG   0.411565
+705                  90             LEU            N              LEU             N   0.238684
+706                  90             LEU            O              LEU             O   0.270148
+707                  91             SER            C              SER             C   0.354550
+708                  91             SER           CA              SER            CA   0.319687
+709                  91             SER           CB              SER            CB   0.218330
+710                  91             SER            N              SER             N   0.285270
+711                  91             SER            O              SER             O   0.370154
+712                  91             SER           OG              SER            OG   0.345400
+713                  92             ARG            C              ARG             C   0.592929
+714                  92             ARG           CA              ARG            CA   0.486046
+715                  92             ARG           CB              ARG            CB   0.538990
+716                  92             ARG           CD              ARG            CD   0.617028
+717                  92             ARG           CG              ARG            CG   0.390626
+718                  92             ARG           CZ              ARG            CZ   1.135032
+719                  92             ARG            N              ARG             N   0.410011
+720                  92             ARG           NE              ARG            NE   0.985043
+721                  92             ARG          NH1              ARG           NH1   1.051242
+722                  92             ARG          NH2              ARG           NH2   1.572427
+723                  92             ARG            O              ARG             O   0.974202
+724                  93             SER            C              SER             C   0.336088
+725                  93             SER           CA              SER            CA   0.391466
+726                  93             SER           CB              SER            CB   0.384688
+727                  93             SER            N              SER             N   0.404146
+728                  93             SER            O              SER             O   0.401782
+729                  93             SER           OG              SER            OG   0.349259
+730                  94             LEU            C              LEU             C   0.205297
+731                  94             LEU           CA              LEU            CA   0.246668
+732                  94             LEU           CB              LEU            CB   0.315198
+733                  94             LEU          CD1              LEU           CD1   0.352459
+734                  94             LEU          CD2              LEU           CD2   0.425216
+735                  94             LEU           CG              LEU            CG   0.354409
+736                  94             LEU            N              LEU             N   0.319708
+737                  94             LEU            O              LEU             O   0.278907
+738                  95             ASP            C              ASP             C   0.292104
+739                  95             ASP           CA              ASP            CA   0.274135
+740                  95             ASP           CB              ASP            CB   0.283362
+741                  95             ASP           CG              ASP            CG   0.432786
+742                  95             ASP            N              ASP             N   0.238378
+743                  95             ASP            O              ASP             O   0.365452
+744                  95             ASP          OD1              ASP           OD1   0.267442
+745                  95             ASP          OD2              ASP           OD2   0.852651
+746                  96             ASP            C              ASP             C   0.389361
+747                  96             ASP           CA              ASP            CA   0.343629
+748                  96             ASP           CB              ASP            CB   0.366203
+749                  96             ASP           CG              ASP            CG   0.454115
+750                  96             ASP            N              ASP             N   0.281855
+751                  96             ASP            O              ASP             O   0.488554
+752                  96             ASP          OD1              ASP           OD1   0.569278
+753                  96             ASP          OD2              ASP           OD2   0.653922
+754                  97             ALA            C              ALA             C   0.275204
+755                  97             ALA           CA              ALA            CA   0.260065
+756                  97             ALA           CB              ALA            CB   0.212925
+757                  97             ALA            N              ALA             N   0.280533
+758                  97             ALA            O              ALA             O   0.352139
+759                  98             LEU            C              LEU             C   0.376384
+760                  98             LEU           CA              LEU            CA   0.295816
+761                  98             LEU           CB              LEU            CB   0.350933
+762                  98             LEU          CD1              LEU           CD1   0.394751
+763                  98             LEU          CD2              LEU           CD2   0.309474
+764                  98             LEU           CG              LEU            CG   0.315221
+765                  98             LEU            N              LEU             N   0.268755
+766                  98             LEU            O              LEU             O   0.533578
+767                  99             LYS            C              LYS             C   0.500101
+768                  99             LYS           CA              LYS            CA   0.508100
+769                  99             LYS           CB              LYS            CB   0.570289
+770                  99             LYS           CD              LYS            CD   0.862536
+771                  99             LYS           CE              LYS            CE   1.063190
+772                  99             LYS           CG              LYS            CG   0.723626
+773                  99             LYS            N              LYS             N   0.371915
+774                  99             LYS           NZ              LYS            NZ   2.103339
+775                  99             LYS            O              LYS             O   0.559884
+776                 100             LEU            C              LEU             C   0.327764
+777                 100             LEU           CA              LEU            CA   0.459803
+778                 100             LEU           CB              LEU            CB   0.508065
+779                 100             LEU          CD1              LEU           CD1   0.479930
+780                 100             LEU          CD2              LEU           CD2   0.669300
+781                 100             LEU           CG              LEU            CG   0.449041
+782                 100             LEU            N              LEU             N   0.452757
+783                 100             LEU            O              LEU             O   0.334670
+784                 101             THR            C              THR             C   0.085889
+785                 101             THR           CA              THR            CA   0.119616
+786                 101             THR           CB              THR            CB   0.100742
+787                 101             THR          CG2              THR           CG2   0.184263
+788                 101             THR            N              THR             N   0.205944
+789                 101             THR            O              THR             O   0.012083
+790                 101             THR          OG1              THR           OG1   0.132068
+791                 102             GLU            C              GLU             C   0.180006
+792                 102             GLU           CA              GLU            CA   0.171499
+793                 102             GLU           CB              GLU            CB   0.278978
+794                 102             GLU           CD              GLU            CD   2.482410
+795                 102             GLU           CG              GLU            CG   0.315485
+796                 102             GLU            N              GLU             N   0.129159
+797                 102             GLU            O              GLU             O   0.347223
+798                 102             GLU          OE1              GLU           OE1   3.155093
+799                 102             GLU          OE2              GLU           OE2   4.460653
+800                 103             GLN            C              GLN             C   0.222877
+801                 103             GLN           CA              GLN            CA   0.172815
+802                 103             GLN           CB              GLN            CB   0.104909
+803                 103             GLN           CD              GLN            CD   2.249525
+804                 103             GLN           CG              GLN            CG   0.349637
+805                 103             GLN            N              GLN             N   0.162745
+806                 103             GLN          NE2              GLN           NE2   3.457077
+807                 103             GLN            O              GLN             O   0.319770
+808                 103             GLN          OE1              GLN           OE1   4.280028
+809                 104             PRO            C              PRO             C   0.289572
+810                 104             PRO           CA              PRO            CA   0.247372
+811                 104             PRO           CB              PRO            CB   0.210283
+812                 104             PRO           CD              PRO            CD   0.188399
+813                 104             PRO           CG              PRO            CG   0.971451
+814                 104             PRO            N              PRO             N   0.220352
+815                 104             PRO            O              PRO             O   0.386959
+816                 105             GLU            C              GLU             C   0.234538
+817                 105             GLU           CA              GLU            CA   0.316790
+818                 105             GLU           CB              GLU            CB   0.399312
+819                 105             GLU           CD              GLU            CD   0.890176
+820                 105             GLU           CG              GLU            CG   0.396869
+821                 105             GLU            N              GLU             N   0.256225
+822                 105             GLU            O              GLU             O   0.207121
+823                 105             GLU          OE1              GLU           OE1   1.971423
+824                 105             GLU          OE2              GLU           OE2   2.853822
+825                 106             LEU            C              LEU             C   0.223065
+826                 106             LEU           CA              LEU            CA   0.226506
+827                 106             LEU           CB              LEU            CB   0.185003
+828                 106             LEU          CD1              LEU           CD1   0.368272
+829                 106             LEU          CD2              LEU           CD2   0.253245
+830                 106             LEU           CG              LEU            CG   0.187150
+831                 106             LEU            N              LEU             N   0.255595
+832                 106             LEU            O              LEU             O   0.381227
+833                 107             ALA            C              ALA             C   0.334598
+834                 107             ALA           CA              ALA            CA   0.252962
+835                 107             ALA           CB              ALA            CB   0.248244
+836                 107             ALA            N              ALA             N   0.219893
+837                 107             ALA            O              ALA             O   0.560879
+838                 108             ASN            C              ASN             C   0.440369
+839                 108             ASN           CA              ASN            CA   0.576564
+840                 108             ASN           CB              ASN            CB   0.813387
+841                 108             ASN           CG              ASN            CG   0.879273
+842                 108             ASN            N              ASN             N   0.355782
+843                 108             ASN          ND2              ASN           ND2   2.945596
+844                 108             ASN            O              ASN             O   0.429000
+845                 108             ASN          OD1              ASN           OD1   1.188495
+846                 109             LYS            C              LYS             C   0.106682
+847                 109             LYS           CA              LYS            CA   0.292347
+848                 109             LYS           CB              LYS            CB   0.381832
+849                 109             LYS           CD              LYS            CD   0.501711
+850                 109             LYS           CE              LYS            CE   0.538239
+851                 109             LYS           CG              LYS            CG   0.419949
+852                 109             LYS            N              LYS             N   0.365137
+853                 109             LYS           NZ              LYS            NZ   2.697650
+854                 109             LYS            O              LYS             O   0.146799
+855                 110             VAL            C              VAL             C   0.292438
+856                 110             VAL           CA              VAL            CA   0.141573
+857                 110             VAL           CB              VAL            CB   0.194098
+858                 110             VAL          CG1              VAL           CG1   0.256926
+859                 110             VAL          CG2              VAL           CG2   0.213909
+860                 110             VAL            N              VAL             N   0.218808
+861                 110             VAL            O              VAL             O   0.583597
+862                 111             ASP            C              ASP             C   0.482513
+863                 111             ASP           CA              ASP            CA   0.346482
+864                 111             ASP           CB              ASP            CB   0.318039
+865                 111             ASP           CG              ASP            CG   0.460702
+866                 111             ASP            N              ASP             N   0.270551
+867                 111             ASP            O              ASP             O   0.731949
+868                 111             ASP          OD1              ASP           OD1   0.612305
+869                 111             ASP          OD2              ASP           OD2   0.544783
+870                 112             MET            C              MET             C   0.386763
+871                 112             MET           CA              MET            CA   0.399661
+872                 112             MET           CB              MET            CB   0.410973
+873                 112             MET           CE              MET            CE   2.498831
+874                 112             MET           CG              MET            CG   0.420559
+875                 112             MET            N              MET             N   0.391272
+876                 112             MET            O              MET             O   0.266024
+877                 112             MET           SD              MET            SD   0.438371
+878                 113             VAL            C              VAL             C   0.425443
+879                 113             VAL           CA              VAL            CA   0.437125
+880                 113             VAL           CB              VAL            CB   0.425896
+881                 113             VAL          CG1              VAL           CG1   0.411088
+882                 113             VAL          CG2              VAL           CG2   0.421011
+883                 113             VAL            N              VAL             N   0.441893
+884                 113             VAL            O              VAL             O   0.416692
+885                 114             TRP            C              TRP             C   0.384662
+886                 114             TRP           CA              TRP            CA   0.389208
+887                 114             TRP           CB              TRP            CB   0.430165
+888                 114             TRP          CD1              TRP           CD1   0.534590
+889                 114             TRP          CD2              TRP           CD2   0.404526
+890                 114             TRP          CE2              TRP           CE2   0.486540
+891                 114             TRP          CE3              TRP           CE3   0.403726
+892                 114             TRP           CG              TRP            CG   0.422290
+893                 114             TRP          CH2              TRP           CH2   0.472938
+894                 114             TRP          CZ2              TRP           CZ2   0.535687
+895                 114             TRP          CZ3              TRP           CZ3   0.411152
+896                 114             TRP            N              TRP             N   0.435709
+897                 114             TRP          NE1              TRP           NE1   0.505666
+898                 114             TRP            O              TRP             O   0.357136
+899                 115             ILE            C              ILE             C   0.313710
+900                 115             ILE           CA              ILE            CA   0.360604
+901                 115             ILE           CB              ILE            CB   0.415713
+902                 115             ILE          CD1              ILE           CD1   1.616174
+903                 115             ILE          CG1              ILE           CG1   0.797612
+904                 115             ILE          CG2              ILE           CG2   0.312322
+905                 115             ILE            N              ILE             N   0.352168
+906                 115             ILE            O              ILE             O   0.300934
+907                 116             VAL            C              VAL             C   0.332905
+908                 116             VAL           CA              VAL            CA   0.337491
+909                 116             VAL           CB              VAL            CB   0.391256
+910                 116             VAL          CG1              VAL           CG1   0.425099
+911                 116             VAL          CG2              VAL           CG2   0.443024
+912                 116             VAL            N              VAL             N   0.354555
+913                 116             VAL            O              VAL             O   0.343372
+914                 117             GLY            C              GLY             C   0.399386
+915                 117             GLY           CA              GLY            CA   0.446823
+916                 117             GLY            N              GLY             N   0.421999
+917                 117             GLY            O              GLY             O   0.305663
+918                 118             GLY            C              GLY             C   0.359782
+919                 118             GLY           CA              GLY            CA   0.507194
+920                 118             GLY            N              GLY             N   0.552155
+921                 118             GLY            O              GLY             O   0.162893
+922                 119             SER            C              SER             C   0.208983
+923                 119             SER           CA              SER            CA   0.224078
+924                 119             SER           CB              SER            CB   0.296948
+925                 119             SER            N              SER             N   0.418967
+926                 119             SER            O              SER             O   0.145695
+927                 119             SER           OG              SER            OG   2.083103
+928                 120             SER            C              SER             C   0.426340
+929                 120             SER           CA              SER            CA   0.423512
+930                 120             SER           CB              SER            CB   0.594150
+931                 120             SER            N              SER             N   0.319158
+932                 120             SER            O              SER             O   0.458015
+933                 120             SER           OG              SER            OG   0.594633
+934                 121             VAL            C              VAL             C   0.325983
+935                 121             VAL           CA              VAL            CA   0.392777
+936                 121             VAL           CB              VAL            CB   0.399886
+937                 121             VAL          CG1              VAL           CG1   0.358638
+938                 121             VAL          CG2              VAL           CG2   0.486051
+939                 121             VAL            N              VAL             N   0.400797
+940                 121             VAL            O              VAL             O   0.375103
+941                 122             TYR            C              TYR             C   0.107061
+942                 122             TYR           CA              TYR            CA   0.101040
+943                 122             TYR           CB              TYR            CB   0.132977
+944                 122             TYR          CD1              TYR           CD1   0.191460
+945                 122             TYR          CD2              TYR           CD2   0.151341
+946                 122             TYR          CE1              TYR           CE1   0.224686
+947                 122             TYR          CE2              TYR           CE2   0.204022
+948                 122             TYR           CG              TYR            CG   0.156199
+949                 122             TYR           CZ              TYR            CZ   0.238514
+950                 122             TYR            N              TYR             N   0.173922
+951                 122             TYR            O              TYR             O   0.151819
+952                 122             TYR           OH              TYR            OH   0.256829
+953                 123             LYS            C              LYS             C   0.638941
+954                 123             LYS           CA              LYS            CA   0.474091
+955                 123             LYS           CB              LYS            CB   0.534222
+956                 123             LYS           CD              LYS            CD   2.191721
+957                 123             LYS           CE              LYS            CE   4.267773
+958                 123             LYS           CG              LYS            CG   1.981093
+959                 123             LYS            N              LYS             N   0.194373
+960                 123             LYS           NZ              LYS            NZ   4.198131
+961                 123             LYS            O              LYS             O   0.749681
+962                 124             GLU            C              GLU             C   0.788042
+963                 124             GLU           CA              GLU            CA   0.897209
+964                 124             GLU           CB              GLU            CB   1.061743
+965                 124             GLU           CD              GLU            CD   2.601092
+966                 124             GLU           CG              GLU            CG   2.387968
+967                 124             GLU            N              GLU             N   0.657107
+968                 124             GLU            O              GLU             O   0.893754
+969                 124             GLU          OE1              GLU           OE1   2.389615
+970                 124             GLU          OE2              GLU           OE2   3.381334
+971                 125             ALA            C              ALA             C   0.399517
+972                 125             ALA           CA              ALA            CA   0.446521
+973                 125             ALA           CB              ALA            CB   0.412696
+974                 125             ALA            N              ALA             N   0.528127
+975                 125             ALA            O              ALA             O   0.523317
+976                 126             MET            C              MET             C   0.858925
+977                 126             MET           CA              MET            CA   0.527616
+978                 126             MET           CB              MET            CB   0.664075
+979                 126             MET           CE              MET            CE   1.288497
+980                 126             MET           CG              MET            CG   0.629018
+981                 126             MET            N              MET             N   0.289645
+982                 126             MET            O              MET             O   1.098240
+983                 126             MET           SD              MET            SD   0.985115
+984                 127             ASN            C              ASN             C   1.467814
+985                 127             ASN           CA              ASN            CA   1.471783
+986                 127             ASN           CB              ASN            CB   2.147141
+987                 127             ASN           CG              ASN            CG   2.511990
+988                 127             ASN            N              ASN             N   0.951841
+989                 127             ASN          ND2              ASN           ND2   3.573822
+990                 127             ASN            O              ASN             O   1.754158
+991                 127             ASN          OD1              ASN           OD1   2.205169
+992                 128             HIS            C              HIS             C   1.052202
+993                 128             HIS           CA              HIS            CA   1.480544
+994                 128             HIS           CB              HIS            CB   1.684783
+995                 128             HIS          CD2              HIS           CD2   2.679085
+996                 128             HIS          CE1              HIS           CE1   1.925993
+997                 128             HIS           CG              HIS            CG   1.970015
+998                 128             HIS            N              HIS             N   1.298129
+999                 128             HIS          ND1              HIS           ND1   1.698590
+1000                128             HIS          NE2              HIS           NE2   2.527325
+1001                128             HIS            O              HIS             O   0.338729
+1002                129             PRO            C              PRO             C   0.990411
+1003                129             PRO           CA              PRO            CA   1.342259
+1004                129             PRO           CB              PRO            CB   1.715336
+1005                129             PRO           CD              PRO            CD   2.492042
+1006                129             PRO           CG              PRO            CG   3.283708
+1007                129             PRO            N              PRO             N   1.588416
+1008                129             PRO            O              PRO             O   1.244873
+1009                130             GLY            C              GLY             C   0.288253
+1010                130             GLY           CA              GLY            CA   0.728174
+1011                130             GLY            N              GLY             N   0.916889
+1012                130             GLY            O              GLY             O   0.588699
+1013                131             HIS            C              HIS             C   0.326670
+1014                131             HIS           CA              HIS            CA   0.247016
+1015                131             HIS           CB              HIS            CB   0.548108
+1016                131             HIS          CD2              HIS           CD2   2.441741
+1017                131             HIS          CE1              HIS           CE1   1.035435
+1018                131             HIS           CG              HIS            CG   0.864524
+1019                131             HIS            N              HIS             N   0.290355
+1020                131             HIS          ND1              HIS           ND1   1.300068
+1021                131             HIS          NE2              HIS           NE2   2.122115
+1022                131             HIS            O              HIS             O   0.323435
+1023                132             LEU            C              LEU             C   0.413145
+1024                132             LEU           CA              LEU            CA   0.508916
+1025                132             LEU           CB              LEU            CB   0.616481
+1026                132             LEU          CD1              LEU           CD1   0.731604
+1027                132             LEU          CD2              LEU           CD2   0.746885
+1028                132             LEU           CG              LEU            CG   0.712832
+1029                132             LEU            N              LEU             N   0.422713
+1030                132             LEU            O              LEU             O   0.425837
+1031                133             LYS            C              LYS             C   0.322723
+1032                133             LYS           CA              LYS            CA   0.272257
+1033                133             LYS           CB              LYS            CB   0.187651
+1034                133             LYS           CD              LYS            CD   0.610264
+1035                133             LYS           CE              LYS            CE   1.134373
+1036                133             LYS           CG              LYS            CG   0.346546
+1037                133             LYS            N              LYS             N   0.372985
+1038                133             LYS           NZ              LYS            NZ   1.994991
+1039                133             LYS            O              LYS             O   0.319132
+1040                134             LEU            C              LEU             C   0.375757
+1041                134             LEU           CA              LEU            CA   0.388955
+1042                134             LEU           CB              LEU            CB   0.398488
+1043                134             LEU          CD1              LEU           CD1   0.430769
+1044                134             LEU          CD2              LEU           CD2   0.360889
+1045                134             LEU           CG              LEU            CG   0.360685
+1046                134             LEU            N              LEU             N   0.355956
+1047                134             LEU            O              LEU             O   0.497958
+1048                135             PHE            C              PHE             C   0.175114
+1049                135             PHE           CA              PHE            CA   0.216261
+1050                135             PHE           CB              PHE            CB   0.239973
+1051                135             PHE          CD1              PHE           CD1   2.272542
+1052                135             PHE          CD2              PHE           CD2   2.564195
+1053                135             PHE          CE1              PHE           CE1   2.231848
+1054                135             PHE          CE2              PHE           CE2   2.589564
+1055                135             PHE           CG              PHE            CG   0.248735
+1056                135             PHE           CZ              PHE            CZ   0.305095
+1057                135             PHE            N              PHE             N   0.295922
+1058                135             PHE            O              PHE             O   0.161400
+1059                136             VAL            C              VAL             C   0.022091
+1060                136             VAL           CA              VAL            CA   0.117320
+1061                136             VAL           CB              VAL            CB   0.138282
+1062                136             VAL          CG1              VAL           CG1   0.103194
+1063                136             VAL          CG2              VAL           CG2   0.192964
+1064                136             VAL            N              VAL             N   0.146045
+1065                136             VAL            O              VAL             O   0.170608
+1066                137             THR            C              THR             C   0.165569
+1067                137             THR           CA              THR            CA   0.195471
+1068                137             THR           CB              THR            CB   0.263564
+1069                137             THR          CG2              THR           CG2   0.308644
+1070                137             THR            N              THR             N   0.238525
+1071                137             THR            O              THR             O   0.139521
+1072                137             THR          OG1              THR           OG1   0.375789
+1073                138             ARG            C              ARG             C   0.219205
+1074                138             ARG           CA              ARG            CA   0.154496
+1075                138             ARG           CB              ARG            CB   0.145086
+1076                138             ARG           CD              ARG            CD   0.186019
+1077                138             ARG           CG              ARG            CG   0.079461
+1078                138             ARG           CZ              ARG            CZ   0.224958
+1079                138             ARG            N              ARG             N   0.163398
+1080                138             ARG           NE              ARG            NE   0.199747
+1081                138             ARG          NH1              ARG           NH1   0.212850
+1082                138             ARG          NH2              ARG           NH2   0.303132
+1083                138             ARG            O              ARG             O   0.178028
+1084                139             ILE            C              ILE             C   0.248992
+1085                139             ILE           CA              ILE            CA   0.273470
+1086                139             ILE           CB              ILE            CB   0.262322
+1087                139             ILE          CD1              ILE           CD1   0.308786
+1088                139             ILE          CG1              ILE           CG1   0.285619
+1089                139             ILE          CG2              ILE           CG2   0.287174
+1090                139             ILE            N              ILE             N   0.265387
+1091                139             ILE            O              ILE             O   0.172215
+1092                140             MET            C              MET             C   0.432843
+1093                140             MET           CA              MET            CA   0.413006
+1094                140             MET           CB              MET            CB   0.569649
+1095                140             MET           CE              MET            CE   1.870456
+1096                140             MET           CG              MET            CG   1.042022
+1097                140             MET            N              MET             N   0.333673
+1098                140             MET            O              MET             O   0.583477
+1099                140             MET           SD              MET            SD   1.779544
+1100                141             GLN            C              GLN             C   0.424740
+1101                141             GLN           CA              GLN            CA   0.479678
+1102                141             GLN           CB              GLN            CB   0.550023
+1103                141             GLN           CD              GLN            CD   0.451143
+1104                141             GLN           CG              GLN            CG   0.333757
+1105                141             GLN            N              GLN             N   0.401400
+1106                141             GLN          NE2              GLN           NE2   0.240460
+1107                141             GLN            O              GLN             O   0.442974
+1108                141             GLN          OE1              GLN           OE1   0.982472
+1109                142             ASP            C              ASP             C   0.295339
+1110                142             ASP           CA              ASP            CA   0.313747
+1111                142             ASP           CB              ASP            CB   0.284375
+1112                142             ASP           CG              ASP            CG   0.399892
+1113                142             ASP            N              ASP             N   0.370640
+1114                142             ASP            O              ASP             O   0.338860
+1115                142             ASP          OD1              ASP           OD1   0.528717
+1116                142             ASP          OD2              ASP           OD2   0.653844
+1117                143             PHE            C              PHE             C   0.205356
+1118                143             PHE           CA              PHE            CA   0.271608
+1119                143             PHE           CB              PHE            CB   0.371809
+1120                143             PHE          CD1              PHE           CD1   0.580474
+1121                143             PHE          CD2              PHE           CD2   0.417637
+1122                143             PHE          CE1              PHE           CE1   0.625905
+1123                143             PHE          CE2              PHE           CE2   0.475581
+1124                143             PHE           CG              PHE            CG   0.449435
+1125                143             PHE           CZ              PHE            CZ   0.564927
+1126                143             PHE            N              PHE             N   0.235023
+1127                143             PHE            O              PHE             O   0.273821
+1128                144             GLU            C              GLU             C   0.349737
+1129                144             GLU           CA              GLU            CA   0.251766
+1130                144             GLU           CB              GLU            CB   0.345210
+1131                144             GLU           CD              GLU            CD   0.783218
+1132                144             GLU           CG              GLU            CG   0.612944
+1133                144             GLU            N              GLU             N   0.227888
+1134                144             GLU            O              GLU             O   0.495889
+1135                144             GLU          OE1              GLU           OE1   2.766151
+1136                144             GLU          OE2              GLU           OE2   1.504342
+1137                145             SER            C              SER             C   0.589313
+1138                145             SER           CA              SER            CA   0.429951
+1139                145             SER           CB              SER            CB   0.311207
+1140                145             SER            N              SER             N   0.342918
+1141                145             SER            O              SER             O   0.704229
+1142                145             SER           OG              SER            OG   0.172180
+1143                146             ASP            C              ASP             C   0.568336
+1144                146             ASP           CA              ASP            CA   0.610314
+1145                146             ASP           CB              ASP            CB   0.629887
+1146                146             ASP           CG              ASP            CG   0.501242
+1147                146             ASP            N              ASP             N   0.574445
+1148                146             ASP            O              ASP             O   0.866089
+1149                146             ASP          OD1              ASP           OD1   0.527765
+1150                146             ASP          OD2              ASP           OD2   0.712541
+1151                147             THR            C              THR             C   0.210412
+1152                147             THR           CA              THR            CA   0.181574
+1153                147             THR           CB              THR            CB   0.091984
+1154                147             THR          CG2              THR           CG2   0.197742
+1155                147             THR            N              THR             N   0.287279
+1156                147             THR            O              THR             O   0.302498
+1157                147             THR          OG1              THR           OG1   0.174089
+1158                148             PHE            C              PHE             C   0.208665
+1159                148             PHE           CA              PHE            CA   0.244520
+1160                148             PHE           CB              PHE            CB   0.248028
+1161                148             PHE          CD1              PHE           CD1   2.403573
+1162                148             PHE          CD2              PHE           CD2   2.458046
+1163                148             PHE          CE1              PHE           CE1   2.384755
+1164                148             PHE          CE2              PHE           CE2   2.484811
+1165                148             PHE           CG              PHE            CG   0.290799
+1166                148             PHE           CZ              PHE            CZ   0.450725
+1167                148             PHE            N              PHE             N   0.260204
+1168                148             PHE            O              PHE             O   0.240329
+1169                149             PHE            C              PHE             C   0.190318
+1170                149             PHE           CA              PHE            CA   0.208990
+1171                149             PHE           CB              PHE            CB   0.212252
+1172                149             PHE          CD1              PHE           CD1   2.502078
+1173                149             PHE          CD2              PHE           CD2   2.327127
+1174                149             PHE          CE1              PHE           CE1   2.641247
+1175                149             PHE          CE2              PHE           CE2   2.207209
+1176                149             PHE           CG              PHE            CG   0.247413
+1177                149             PHE           CZ              PHE            CZ   0.514158
+1178                149             PHE            N              PHE             N   0.187475
+1179                149             PHE            O              PHE             O   0.126969
+1180                150             PRO            C              PRO             C   0.484020
+1181                150             PRO           CA              PRO            CA   0.477889
+1182                150             PRO           CB              PRO            CB   0.672908
+1183                150             PRO           CD              PRO            CD   0.522563
+1184                150             PRO           CG              PRO            CG   1.302141
+1185                150             PRO            N              PRO             N   0.352967
+1186                150             PRO            O              PRO             O   0.368145
+1187                151             GLU            C              GLU             C   0.724133
+1188                151             GLU           CA              GLU            CA   0.835079
+1189                151             GLU           CB              GLU            CB   1.290794
+1190                151             GLU           CD              GLU            CD   2.941644
+1191                151             GLU           CG              GLU            CG   2.559056
+1192                151             GLU            N              GLU             N   0.715825
+1193                151             GLU            O              GLU             O   0.730855
+1194                151             GLU          OE1              GLU           OE1   4.307192
+1195                151             GLU          OE2              GLU           OE2   2.244293
+1196                152             ILE            C              ILE             C   0.592835
+1197                152             ILE           CA              ILE            CA   0.600049
+1198                152             ILE           CB              ILE            CB   0.549291
+1199                152             ILE          CD1              ILE           CD1   0.582708
+1200                152             ILE          CG1              ILE           CG1   0.499141
+1201                152             ILE          CG2              ILE           CG2   0.473097
+1202                152             ILE            N              ILE             N   0.679209
+1203                152             ILE            O              ILE             O   0.686584
+1204                153             ASP            C              ASP             C   0.641659
+1205                153             ASP           CA              ASP            CA   0.573200
+1206                153             ASP           CB              ASP            CB   0.498828
+1207                153             ASP           CG              ASP            CG   0.528170
+1208                153             ASP            N              ASP             N   0.588915
+1209                153             ASP            O              ASP             O   0.670579
+1210                153             ASP          OD1              ASP           OD1   0.433556
+1211                153             ASP          OD2              ASP           OD2   0.613639
+1212                154             LEU            C              LEU             C   0.773120
+1213                154             LEU           CA              LEU            CA   0.811387
+1214                154             LEU           CB              LEU            CB   0.870408
+1215                154             LEU          CD1              LEU           CD1   0.970407
+1216                154             LEU          CD2              LEU           CD2   0.971025
+1217                154             LEU           CG              LEU            CG   0.871294
+1218                154             LEU            N              LEU             N   0.702523
+1219                154             LEU            O              LEU             O   0.821954
+1220                155             GLU            C              GLU             C   0.697947
+1221                155             GLU           CA              GLU            CA   0.646129
+1222                155             GLU           CB              GLU            CB   0.795355
+1223                155             GLU           CD              GLU            CD   3.207651
+1224                155             GLU           CG              GLU            CG   2.546721
+1225                155             GLU            N              GLU             N   0.697708
+1226                155             GLU            O              GLU             O   0.713135
+1227                155             GLU          OE1              GLU           OE1   3.005618
+1228                155             GLU          OE2              GLU           OE2   4.666471
+1229                156             LYS            C              LYS             C   0.772420
+1230                156             LYS           CA              LYS            CA   0.844509
+1231                156             LYS           CB              LYS            CB   1.074431
+1232                156             LYS           CD              LYS            CD   1.113018
+1233                156             LYS           CE              LYS            CE   1.682988
+1234                156             LYS           CG              LYS            CG   1.034173
+1235                156             LYS            N              LYS             N   0.770289
+1236                156             LYS           NZ              LYS            NZ   4.479961
+1237                156             LYS            O              LYS             O   1.054264
+1238                157             TYR            C              TYR             C   0.818646
+1239                157             TYR           CA              TYR            CA   0.789554
+1240                157             TYR           CB              TYR            CB   0.626237
+1241                157             TYR          CD1              TYR           CD1   0.619430
+1242                157             TYR          CD2              TYR           CD2   0.836448
+1243                157             TYR          CE1              TYR           CE1   0.693534
+1244                157             TYR          CE2              TYR           CE2   0.928483
+1245                157             TYR           CG              TYR            CG   0.706016
+1246                157             TYR           CZ              TYR            CZ   0.824010
+1247                157             TYR            N              TYR             N   0.804006
+1248                157             TYR            O              TYR             O   0.941332
+1249                157             TYR           OH              TYR            OH   0.921080
+1250                158             LYS            C              LYS             C   0.631882
+1251                158             LYS           CA              LYS            CA   0.689250
+1252                158             LYS           CB              LYS            CB   0.824743
+1253                158             LYS           CD              LYS            CD   1.349113
+1254                158             LYS           CE              LYS            CE   2.586454
+1255                158             LYS           CG              LYS            CG   1.185184
+1256                158             LYS            N              LYS             N   0.705352
+1257                158             LYS           NZ              LYS            NZ   2.631588
+1258                158             LYS            O              LYS             O   0.637367
+1259                159             LEU            C              LEU             C   0.448827
+1260                159             LEU           CA              LEU            CA   0.455706
+1261                159             LEU           CB              LEU            CB   0.431224
+1262                159             LEU          CD1              LEU           CD1   0.288849
+1263                159             LEU          CD2              LEU           CD2   0.336027
+1264                159             LEU           CG              LEU            CG   0.295577
+1265                159             LEU            N              LEU             N   0.568756
+1266                159             LEU            O              LEU             O   0.500058
+1267                160             LEU            C              LEU             C   0.619976
+1268                160             LEU           CA              LEU            CA   0.501753
+1269                160             LEU           CB              LEU            CB   0.477812
+1270                160             LEU          CD1              LEU           CD1   0.487543
+1271                160             LEU          CD2              LEU           CD2   0.640466
+1272                160             LEU           CG              LEU            CG   0.519108
+1273                160             LEU            N              LEU             N   0.450818
+1274                160             LEU            O              LEU             O   0.632063
+1275                161             PRO            C              PRO             C   1.037750
+1276                161             PRO           CA              PRO            CA   0.870445
+1277                161             PRO           CB              PRO            CB   0.997586
+1278                161             PRO           CD              PRO            CD   0.830665
+1279                161             PRO           CG              PRO            CG   0.985976
+1280                161             PRO            N              PRO             N   0.790717
+1281                161             PRO            O              PRO             O   1.600908
+1282                162             GLU            C              GLU             C   0.608699
+1283                162             GLU           CA              GLU            CA   0.930485
+1284                162             GLU           CB              GLU            CB   1.513737
+1285                162             GLU           CD              GLU            CD   2.051729
+1286                162             GLU           CG              GLU            CG   1.656194
+1287                162             GLU            N              GLU             N   0.765425
+1288                162             GLU            O              GLU             O   0.529764
+1289                162             GLU          OE1              GLU           OE1   2.088470
+1290                162             GLU          OE2              GLU           OE2   3.846272
+1291                163             TYR            C              TYR             C   0.462197
+1292                163             TYR           CA              TYR            CA   0.530133
+1293                163             TYR           CB              TYR            CB   0.463223
+1294                163             TYR          CD1              TYR           CD1   2.248275
+1295                163             TYR          CD2              TYR           CD2   2.602710
+1296                163             TYR          CE1              TYR           CE1   2.199044
+1297                163             TYR          CE2              TYR           CE2   2.662372
+1298                163             TYR           CG              TYR            CG   0.385025
+1299                163             TYR           CZ              TYR            CZ   0.432383
+1300                163             TYR            N              TYR             N   0.675306
+1301                163             TYR            O              TYR             O   0.381378
+1302                163             TYR           OH              TYR            OH   0.479755
+1303                164             PRO            C              PRO             C   0.655838
+1304                164             PRO           CA              PRO            CA   0.734334
+1305                164             PRO           CB              PRO            CB   0.937514
+1306                164             PRO           CD              PRO            CD   0.841797
+1307                164             PRO           CG              PRO            CG   1.007179
+1308                164             PRO            N              PRO             N   0.612788
+1309                164             PRO            O              PRO             O   0.592824
+1310                165             GLY            C              GLY             C   0.577881
+1311                165             GLY           CA              GLY            CA   0.646732
+1312                165             GLY            N              GLY             N   0.695492
+1313                165             GLY            O              GLY             O   0.623771
+1314                166             VAL            C              VAL             C   0.318870
+1315                166             VAL           CA              VAL            CA   0.357122
+1316                166             VAL           CB              VAL            CB   0.280430
+1317                166             VAL          CG1              VAL           CG1   0.271383
+1318                166             VAL          CG2              VAL           CG2   0.293247
+1319                166             VAL            N              VAL             N   0.458165
+1320                166             VAL            O              VAL             O   0.333068
+1321                167             LEU            C              LEU             C   0.187843
+1322                167             LEU           CA              LEU            CA   0.291542
+1323                167             LEU           CB              LEU            CB   0.462716
+1324                167             LEU          CD1              LEU           CD1   0.589245
+1325                167             LEU          CD2              LEU           CD2   0.308346
+1326                167             LEU           CG              LEU            CG   0.481969
+1327                167             LEU            N              LEU             N   0.350622
+1328                167             LEU            O              LEU             O   0.199907
+1329                168             SER            C              SER             C   0.467556
+1330                168             SER           CA              SER            CA   0.252937
+1331                168             SER           CB              SER            CB   0.291489
+1332                168             SER            N              SER             N   0.185135
+1333                168             SER            O              SER             O   0.724138
+1334                168             SER           OG              SER            OG   0.268108
+1335                169             ASP            C              ASP             C   0.720382
+1336                169             ASP           CA              ASP            CA   0.923706
+1337                169             ASP           CB              ASP            CB   1.356585
+1338                169             ASP           CG              ASP            CG   1.464684
+1339                169             ASP            N              ASP             N   0.519906
+1340                169             ASP            O              ASP             O   0.702390
+1341                169             ASP          OD1              ASP           OD1   1.249586
+1342                169             ASP          OD2              ASP           OD2   2.073422
+1343                170             VAL            C              VAL             C   0.586072
+1344                170             VAL           CA              VAL            CA   0.580347
+1345                170             VAL           CB              VAL            CB   0.568639
+1346                170             VAL          CG1              VAL           CG1   0.541659
+1347                170             VAL          CG2              VAL           CG2   0.582040
+1348                170             VAL            N              VAL             N   0.600125
+1349                170             VAL            O              VAL             O   0.554553
+1350                171             GLN            C              GLN             C   0.590147
+1351                171             GLN           CA              GLN            CA   0.597183
+1352                171             GLN           CB              GLN            CB   0.593260
+1353                171             GLN           CD              GLN            CD   0.560786
+1354                171             GLN           CG              GLN            CG   0.668266
+1355                171             GLN            N              GLN             N   0.619998
+1356                171             GLN          NE2              GLN           NE2   0.525328
+1357                171             GLN            O              GLN             O   0.636007
+1358                171             GLN          OE1              GLN           OE1   0.557329
+1359                172             GLU            C              GLU             C   0.578299
+1360                172             GLU           CA              GLU            CA   0.551036
+1361                172             GLU           CB              GLU            CB   0.579363
+1362                172             GLU           CD              GLU            CD   0.593994
+1363                172             GLU           CG              GLU            CG   0.503250
+1364                172             GLU            N              GLU             N   0.540093
+1365                172             GLU            O              GLU             O   0.714475
+1366                172             GLU          OE1              GLU           OE1   2.286513
+1367                172             GLU          OE2              GLU           OE2   2.107678
+1368                173             GLU            C              GLU             C   0.476699
+1369                173             GLU           CA              GLU            CA   0.526796
+1370                173             GLU           CB              GLU            CB   0.552686
+1371                173             GLU           CD              GLU            CD   0.836232
+1372                173             GLU           CG              GLU            CG   0.806793
+1373                173             GLU            N              GLU             N   0.496720
+1374                173             GLU            O              GLU             O   0.543583
+1375                173             GLU          OE1              GLU           OE1   2.734265
+1376                173             GLU          OE2              GLU           OE2   1.844491
+1377                174             LYS            C              LYS             C   0.404387
+1378                174             LYS           CA              LYS            CA   0.393595
+1379                174             LYS           CB              LYS            CB   0.443731
+1380                174             LYS           CD              LYS            CD   2.398065
+1381                174             LYS           CE              LYS            CE   2.399405
+1382                174             LYS           CG              LYS            CG   0.451577
+1383                174             LYS            N              LYS             N   0.416166
+1384                174             LYS           NZ              LYS            NZ   4.770450
+1385                174             LYS            O              LYS             O   0.456651
+1386                175             GLY            C              GLY             C   0.448569
+1387                175             GLY           CA              GLY            CA   0.360014
+1388                175             GLY            N              GLY             N   0.372481
+1389                175             GLY            O              GLY             O   0.478167
+1390                176             ILE            C              ILE             C   0.542551
+1391                176             ILE           CA              ILE            CA   0.547723
+1392                176             ILE           CB              ILE            CB   0.569611
+1393                176             ILE          CD1              ILE           CD1   0.574471
+1394                176             ILE          CG1              ILE           CG1   0.560635
+1395                176             ILE          CG2              ILE           CG2   0.560680
+1396                176             ILE            N              ILE             N   0.518100
+1397                176             ILE            O              ILE             O   0.537555
+1398                177             LYS            C              LYS             C   0.513526
+1399                177             LYS           CA              LYS            CA   0.524258
+1400                177             LYS           CB              LYS            CB   0.532464
+1401                177             LYS           CD              LYS            CD   0.612800
+1402                177             LYS           CE              LYS            CE   0.892331
+1403                177             LYS           CG              LYS            CG   0.603232
+1404                177             LYS            N              LYS             N   0.543652
+1405                177             LYS           NZ              LYS            NZ   1.374727
+1406                177             LYS            O              LYS             O   0.520090
+1407                178             TYR            C              TYR             C   0.452280
+1408                178             TYR           CA              TYR            CA   0.470385
+1409                178             TYR           CB              TYR            CB   0.475064
+1410                178             TYR          CD1              TYR           CD1   2.432563
+1411                178             TYR          CD2              TYR           CD2   2.444776
+1412                178             TYR          CE1              TYR           CE1   2.515682
+1413                178             TYR          CE2              TYR           CE2   2.376628
+1414                178             TYR           CG              TYR            CG   0.456213
+1415                178             TYR           CZ              TYR            CZ   0.441793
+1416                178             TYR            N              TYR             N   0.519455
+1417                178             TYR            O              TYR             O   0.565433
+1418                178             TYR           OH              TYR            OH   0.475858
+1419                179             LYS            C              LYS             C   0.307587
+1420                179             LYS           CA              LYS            CA   0.304240
+1421                179             LYS           CB              LYS            CB   0.343444
+1422                179             LYS           CD              LYS            CD   0.685964
+1423                179             LYS           CE              LYS            CE   0.584201
+1424                179             LYS           CG              LYS            CG   0.305092
+1425                179             LYS            N              LYS             N   0.255335
+1426                179             LYS           NZ              LYS            NZ   1.384980
+1427                179             LYS            O              LYS             O   0.284011
+1428                180             PHE            C              PHE             C   0.162302
+1429                180             PHE           CA              PHE            CA   0.273280
+1430                180             PHE           CB              PHE            CB   0.342697
+1431                180             PHE          CD1              PHE           CD1   0.206507
+1432                180             PHE          CD2              PHE           CD2   0.379634
+1433                180             PHE          CE1              PHE           CE1   0.217812
+1434                180             PHE          CE2              PHE           CE2   0.336947
+1435                180             PHE           CG              PHE            CG   0.299603
+1436                180             PHE           CZ              PHE            CZ   0.211296
+1437                180             PHE            N              PHE             N   0.330770
+1438                180             PHE            O              PHE             O   0.286888
+1439                181             GLU            C              GLU             C   0.199662
+1440                181             GLU           CA              GLU            CA   0.168101
+1441                181             GLU           CB              GLU            CB   0.246658
+1442                181             GLU           CD              GLU            CD   0.331234
+1443                181             GLU           CG              GLU            CG   0.259023
+1444                181             GLU            N              GLU             N   0.110136
+1445                181             GLU            O              GLU             O   0.205295
+1446                181             GLU          OE1              GLU           OE1   2.518524
+1447                181             GLU          OE2              GLU           OE2   1.922801
+1448                182             VAL            C              VAL             C   0.333666
+1449                182             VAL           CA              VAL            CA   0.290911
+1450                182             VAL           CB              VAL            CB   0.302438
+1451                182             VAL          CG1              VAL           CG1   0.400207
+1452                182             VAL          CG2              VAL           CG2   0.285182
+1453                182             VAL            N              VAL             N   0.216416
+1454                182             VAL            O              VAL             O   0.260340
+1455                183             TYR            C              TYR             C   0.480534
+1456                183             TYR           CA              TYR            CA   0.485635
+1457                183             TYR           CB              TYR            CB   0.518194
+1458                183             TYR          CD1              TYR           CD1   2.665592
+1459                183             TYR          CD2              TYR           CD2   2.223198
+1460                183             TYR          CE1              TYR           CE1   2.659811
+1461                183             TYR          CE2              TYR           CE2   2.262325
+1462                183             TYR           CG              TYR            CG   0.507632
+1463                183             TYR           CZ              TYR            CZ   0.539513
+1464                183             TYR            N              TYR             N   0.489492
+1465                183             TYR            O              TYR             O   0.511631
+1466                183             TYR           OH              TYR            OH   0.572774
+1467                184             GLU            C              GLU             C   0.557560
+1468                184             GLU           CA              GLU            CA   0.562298
+1469                184             GLU           CB              GLU            CB   0.732758
+1470                184             GLU           CD              GLU            CD   0.961859
+1471                184             GLU           CG              GLU            CG   0.788252
+1472                184             GLU            N              GLU             N   0.481802
+1473                184             GLU            O              GLU             O   0.723319
+1474                184             GLU          OE1              GLU           OE1   1.098285
+1475                184             GLU          OE2              GLU           OE2   3.146827
+1476                185             LYS            C              LYS             C   2.076001
+1477                185             LYS           CA              LYS            CA   0.710566
+1478                185             LYS           CB              LYS            CB   0.760511
+1479                185             LYS           CD              LYS            CD   0.990005
+1480                185             LYS           CE              LYS            CE   2.118304
+1481                185             LYS           CG              LYS            CG   1.374441
+1482                185             LYS            N              LYS             N   0.518005
+1483                185             LYS           NZ              LYS            NZ   1.497490
+1484                185             LYS            O              LYS             O   2.634983
+1485                186             ASN            C              ASN             C   3.037402
+1486                186             ASN           CA              ASN            CA   4.363874
+1487                186             ASN           CB              ASN            CB   6.170867
+1488                186             ASN           CG              ASN            CG   8.743099
+1489                186             ASN            N              ASN             N   2.959186
+1490                186             ASN          ND2              ASN           ND2  10.491944
+1491                186             ASN            O              ASN             O   1.908597
+1492                186             ASN          OD1              ASN           OD1   9.656074
+1493                187             ASP            C              ASP             C   5.297308
+1494                187             ASP           CA              ASP            CA   4.368468
+1495                187             ASP           CB              ASP            CB   6.470028
+1496                187             ASP           CG              ASP            CG   8.329749
+1497                187             ASP            N              ASP             N   4.469165
+1498                187             ASP            O              ASP             O   6.708862
+1499                187             ASP          OD1              ASP           OD1   7.764397
+1500                187             ASP          OD2              ASP           OD2  10.432814
+1501                187             ASP          OXT              ASP           OXT   5.061981
