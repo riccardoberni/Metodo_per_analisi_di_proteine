@@ -1,4 +1,4 @@
-# Metodo_per_analisi_di_proteine
+# Metodo per analisi di catene laterali di proteine
 Main.py prende in input una cartella di proteine e il parametro dist (5 di defaut). 
 La cartella deve contenere una sottocartella "p_name" per ogni proteina che si vuole analizzare, che abbia il nome della proteina. 
 Nella cartella "p_name" di ogni proteina deve esserci il file di AlphaFold2 con il nome che rispetti la struttura: '*nomeproteina*_af.pdb'.
