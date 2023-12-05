@@ -15,7 +15,7 @@ def main(proteins_folder, dist=5):
     for p_name in proteins:
         print(p_name)
         path_af = proteins_folder + '\\' + p_name + '\\' + p_name + '_af.pdb'
-        wt = proteins_folder+ '\\' + p_name + '\\mut'
+        wt = proteins_folder+ '\\' + p_name + '\\wt'
         path_exp = wt + '\\' + os.listdir(wt)[0]
         path_alignment = proteins_folder + '\\' + p_name + '\\' + p_name + '_alignment.pdb'
         path_out = proteins_folder + '\\' + p_name + '\\' + p_name + '_out.txt'
